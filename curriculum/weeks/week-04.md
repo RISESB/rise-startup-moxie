@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** What is the simplest version of your business that you could build right now to test if the problem is real?
 
+_When it last ran: Week of September 15, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Map a business idea using the Business Model Canvas.
 - Distinguish between an MVP and a May-B-P.
@@ -24,21 +26,39 @@ Unit 1: Foundations & Identity
 - Speaker Tour Prep Worksheets
 - Thank you cards and pens
 
-## Key ideas (from the slides)
-- **Title:** Start Small, Think Big · BMC · MVP · May-B-P
-- **Warm-Up:** Your strongest problem — in one sentence
-- **Business Model Canvas:** One page, nine boxes → how a business works
-- **MVP:** Minimum Viable Product → simplest thing that delivers value
-- **May-B-P:** Maybe-a-Product → build & test in 2 weeks
-- **Don't Wait:** Stop waiting → go find out if anyone cares
-- **BMC Quick Practice:** Pick a problem → fill a BMC for it
-- **Share:** Which box was hardest to fill?
-- **Close:** Bring your strongest problem → draft your May-B-P Tuesday
+## Monday slide outline
+1. **Title:** Start Small, Think Big · BMC · MVP · May-B-P
+   _Picture: A paper airplane taking off next to a full jet on a runway._
+2. **Warm-Up:** Your strongest problem — in one sentence
+   _Picture: Open Discovery Tracker with one entry circled._
+3. **Business Model Canvas:** One page, nine boxes → how a business works
+   _Picture: Blank nine-box Business Model Canvas grid._
+4. **MVP:** Minimum Viable Product → simplest thing that delivers value
+   _Picture: Skateboard-to-car MVP evolution illustration._
+5. **May-B-P:** Maybe-a-Product → build & test in 2 weeks
+   _Picture: Roadside food stand with a hand-lettered sign._
+6. **Don't Wait:** Stop waiting → go find out if anyone cares
+   _Picture: Runner leaving the starting blocks._
+7. **BMC Quick Practice:** Pick a problem → fill a BMC for it
+   _Picture: Sticky notes filling a canvas grid._
+8. **Share:** Which box was hardest to fill?
+   _Picture: Two students comparing filled canvases._
+9. **Close:** Bring your strongest problem → draft your May-B-P Tuesday
+   _Picture: Calendar with a 2-week window highlighted._
 
-## Videos used this week
-- [Business Model Canvas Explained](https://www.youtube.com/watch?v=QoAOzMTLP5s) (Strategyzer, ~3.5m)
-- [The Original Dropbox Video Demo MVP](https://www.youtube.com/watch?v=3lVtP0HRvyA) (Adam Halasz, ~4m)
-- [Secret Phone Number Burger (May-B-P example)](https://www.youtube.com/watch?v=NSkfQS1Brvg) (VICE News, ~7m)
+## Videos for this week
+- [Business Model Canvas Explained](https://www.youtube.com/watch?v=QoAOzMTLP5s) (Strategyzer, ~3.5m, slide 3)
+- [The Original Dropbox Video Demo MVP](https://www.youtube.com/watch?v=3lVtP0HRvyA) (Adam Halasz, ~4m, slide 4)
+- [Secret Phone Number Burger (May-B-P example)](https://www.youtube.com/watch?v=NSkfQS1Brvg) (VICE News, ~7m, slide 5)
+
+## Podcast
+Listen — Business Model Canvas + MVPs + May-B-P: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1NJ1MjHJFW2rFuyZqEjOxInZOQl7HQg8c/edit
+- Lesson plan doc: https://docs.google.com/document/d/1qY2IOEgPemBZmHIdkCN-HB1zeyFBxdQq/edit
+- Slide outline doc: https://docs.google.com/document/d/1He22jIkRru4mFxgiU6_3czX33GBW8tIO/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

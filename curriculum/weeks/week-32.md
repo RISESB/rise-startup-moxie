@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** Who does what in your business — and how do you plan the work so nothing falls through the cracks?
 
+_When it last ran: Week of April 13, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Define the key roles their business needs, now and as it grows.
 - Map which roles they fill and which they need help with.
@@ -17,23 +19,43 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Planning Work Day
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** The job you love · the job you avoid
-- **From Week 9 to Now:** Builder · Seller · Operator → who does what now?
-- **The Four Core Roles:** Product/Operations · Sales/Marketing · Finance/Admin · Leadership
-- **Wearing All Four Hats:** Solo? You wear every hat — know which one, know your weakest
-- **The Founder Trap:** Doing everything = stalling · Do only what only you can do
-- **Help Has Many Forms:** Friend · Freelancer · Family · Tool · Automation
-- **What an Operating Plan Answers:** What work · When · Who does it
-- **A Weekly Rhythm:** Make · Market · Money · Weekly review
-- **Rhythm Beats Willpower:** Scheduled work actually gets done
-- **Activity: Role Map First Pass:** List every role · Fill well? · Fill poorly? · Needs help?
-- **Close:** Next: build your real weekly operating plan
+## Monday slide outline
+1. **Warm-Up:** The job you love · the job you avoid
+   _Picture: Split-screen of someone thrilled vs. someone dodging a task_
+2. **From Week 9 to Now:** Builder · Seller · Operator → who does what now?
+   _Picture: Three simple role icons connecting to one business_
+3. **The Four Core Roles:** Product/Operations · Sales/Marketing · Finance/Admin · Leadership
+   _Picture: Four-quadrant grid with an icon per function_
+4. **Wearing All Four Hats:** Solo? You wear every hat — know which one, know your weakest
+   _Picture: One founder juggling four labeled hats_
+5. **The Founder Trap:** Doing everything = stalling · Do only what only you can do
+   _Picture: Overwhelmed founder buried under too many tasks_
+6. **Help Has Many Forms:** Friend · Freelancer · Family · Tool · Automation
+   _Picture: Row of help-source icons around a founder_
+7. **What an Operating Plan Answers:** What work · When · Who does it
+   _Picture: Simple weekly calendar with tasks slotted in_
+8. **A Weekly Rhythm:** Make · Market · Money · Weekly review
+   _Picture: Circular weekly-rhythm loop with four stops_
+9. **Rhythm Beats Willpower:** Scheduled work actually gets done
+   _Picture: Calendar block vs. a scattered sticky-note pile_
+10. **Activity: Role Map First Pass:** List every role · Fill well? · Fill poorly? · Needs help?
+   _Picture: Blank role-map worksheet template_
+11. **Close:** Next: build your real weekly operating plan
+   _Picture: Finish-line arrow pointing to a filled-in weekly plan_
 
-## Videos used this week
-- [7 Roles Every Small Business Owner Must Master](https://www.youtube.com/watch?v=nfbXM49aKSc) (Duct Tape Marketing, ~7m)
-- [The Founder's Trap: Doing Everything](https://www.youtube.com/shorts/iY8QenJW_aI) (Business of ArchViz, <1m)
-- [How I Plan My Entire Week in 10 Mins](https://www.youtube.com/watch?v=vtj4f4SZk3A) (Deya, ~10m)
+## Videos for this week
+- [7 Roles Every Small Business Owner Must Master](https://www.youtube.com/watch?v=nfbXM49aKSc) (Duct Tape Marketing, ~7m, slide 3)
+- [The Founder's Trap: Doing Everything](https://www.youtube.com/shorts/iY8QenJW_aI) (Business of ArchViz, <1m, slide 5)
+- [How I Plan My Entire Week in 10 Mins](https://www.youtube.com/watch?v=vtj4f4SZk3A) (Deya, ~10m, slide 8)
+
+## Podcast
+Listen — Team Roles + Operational Planning: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1Ngm-4TqpDneY2tJkVQwHyjlDobmH9tv5/edit
+- Lesson plan doc: https://docs.google.com/document/d/1fyVDKwuGqtpNh2LzoqvmvtzLLrVInmPE/edit
+- Slide outline doc: https://docs.google.com/document/d/1Tqsn8VCW0Wi8RnDcCXZmzNb4LT_6KkXR/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

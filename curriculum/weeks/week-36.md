@@ -4,6 +4,8 @@ Unit 5: The Showcase (Capstone)
 
 **Guiding question:** Are you ready to show the world what you built — and to close this year with pride?
 
+_When it last ran: Week of May 11, 2026 · 7:30–9:00 AM · Final week of the year · Final week of the year. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Deliver a confident, complete showcase of their business.
 - Represent themselves professionally to a real audience.
@@ -17,21 +19,40 @@ Unit 5: The Showcase (Capstone)
 - **Thursday:** Year-End Reflection + Celebration
 - **Friday:** Closing Circle + What's Next
 
-## Key ideas (from the slides)
-- **Warm-Up:** One word for how you feel about tomorrow
-- **This Is It:** The showcase is here · today we get 100% ready
-- **Nerves Mean It Matters:** Nervous = you care · Channel it
-- **Finalize Your Materials:** Print everything · Load your deck on the right device
-- **Assemble Your Booth:** Booth pieces ready · Product/demo working
-- **Logistics Check:** Room layout · Tables · Screens · Signage · Run-of-show
-- **Last Rehearsal:** Run it once more · Timed · No big changes now
-- **Small Tweaks Only:** Quick, encouraging notes · Trust your prep
-- **Tomorrow's Game Plan:** Arrive early · Set up · Test tech · Greet guests
-- **Close:** You are ready · Sleep, dress the part, show up proud
+## Monday slide outline
+1. **Warm-Up:** One word for how you feel about tomorrow
+   _Picture: Wall of sticky notes with feeling words_
+2. **This Is It:** The showcase is here · today we get 100% ready
+   _Picture: Banner reading "Student Showcase" over a set-up event space_
+3. **Nerves Mean It Matters:** Nervous = you care · Channel it
+   _Picture: Athlete taking a deep breath before the start line_
+4. **Finalize Your Materials:** Print everything · Load your deck on the right device
+   _Picture: Printed snapshot, laptop, and booth signage laid out_
+5. **Assemble Your Booth:** Booth pieces ready · Product/demo working
+   _Picture: Tidy showcase booth with sign, product, and one-pager_
+6. **Logistics Check:** Room layout · Tables · Screens · Signage · Run-of-show
+   _Picture: Simple floor-plan diagram of the event room_
+7. **Last Rehearsal:** Run it once more · Timed · No big changes now
+   _Picture: Student rehearsing at their booth with a timer_
+8. **Small Tweaks Only:** Quick, encouraging notes · Trust your prep
+   _Picture: Checklist with nearly every box ticked_
+9. **Tomorrow's Game Plan:** Arrive early · Set up · Test tech · Greet guests
+   _Picture: Morning-of run-of-show timeline strip_
+10. **Close:** You are ready · Sleep, dress the part, show up proud
+   _Picture: Sunrise over an open, ready showcase venue_
 
-## Videos used this week
-- [A Pep Talk from Kid President](https://www.youtube.com/watch?v=l-gQLqv9f4o) (SoulPancake, ~3.5m)
-- [How to Practice Your Upcoming Presentation](https://www.youtube.com/watch?v=vX45D3r250g) (Lighthouse Communications, ~5m)
+## Videos for this week
+- [A Pep Talk from Kid President](https://www.youtube.com/watch?v=l-gQLqv9f4o) (SoulPancake, ~3.5m, slide 2)
+- [How to Practice Your Upcoming Presentation](https://www.youtube.com/watch?v=vX45D3r250g) (Lighthouse Communications, ~5m, slide 7)
+
+## Podcast
+Listen — The End Part 3: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1aM7J4HXVD4dxbjl20a-_-hlR_WxN_jH9/edit
+- Lesson plan doc: https://docs.google.com/document/d/10EUKMd3fc3uiF1Nky2PP7GaDlGAmFmG_/edit
+- Slide outline doc: https://docs.google.com/document/d/1URiDn7sZFygqSxiRGBgyZ_9PV_nehNan/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

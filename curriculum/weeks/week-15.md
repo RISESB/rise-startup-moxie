@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** Why should someone choose you — and what should they pay?
 
+_When it last ran: Week of December 1, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Write a one-sentence value proposition that passes the "so what?" test.
 - Explain 4 common pricing models and which fits their business.
@@ -17,24 +19,45 @@ Unit 2: Customer & Product
 - **Thursday:** Speaker Recap + Thank You Cards + Pricing Work Day
 - **Friday:** Profit or Broke + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** What do you charge — and why that number?
-- **Two Questions Today:** Why should someone choose you? · What should they pay? · By Thursday: a defensible price, not a guess
-- **Price Is a Signal:** Not just a number · It tells the customer who you are and who you're for
-- **Value Prop Framework:** We help [customer] [achieve X] by [unique approach] — unlike [alternative], which [limitation]
-- **Value Prop Example:** Fresh, affordable local meal kits for busy parents — unlike national services, too pricey and shipped from afar
-- **The "So What?" Test:** Bad: "We help people eat better." → So what? · Good: names the real payoff
-- **Pricing Model: Cost-Plus:** Cost per unit × (1 + margin) · $12 + 50% = $18 · Best for physical products
-- **Pricing Model: Value-Based:** Price on what it's worth to the customer · Save $200 → charge $300 · Best for services & expertise
-- **Pricing Model: Competitive:** Above (premium) · At (quality) · Below (volume) · Warning: below is hard to raise later
-- **Pricing Model: Subscription:** Regular fee for ongoing access · Predictable revenue · Best for services, communities, content
-- **Activity: Draft + Calculate:** Write 3 value props · Apply "so what?" · Pick your model · Calculate your price
-- **Close:** Tomorrow: stress-test pricing & refine with AI and peer feedback
+## Monday slide outline
+1. **Warm-Up:** What do you charge — and why that number?
+   _Picture: A price tag with a big question mark._
+2. **Two Questions Today:** Why should someone choose you? · What should they pay? · By Thursday: a defensible price, not a guess
+   _Picture: Split image — a spotlight on a product, and a price tag._
+3. **Price Is a Signal:** Not just a number · It tells the customer who you are and who you're for
+   _Picture: Budget item and premium item side by side with contrasting tags._
+4. **Value Prop Framework:** We help [customer] [achieve X] by [unique approach] — unlike [alternative], which [limitation]
+   _Picture: Fill-in-the-blank sentence template._
+5. **Value Prop Example:** Fresh, affordable local meal kits for busy parents — unlike national services, too pricey and shipped from afar
+   _Picture: Local farm meal kit box on a doorstep._
+6. **The "So What?" Test:** Bad: "We help people eat better." → So what? · Good: names the real payoff
+   _Picture: A skeptical listener asking "so what?"_
+7. **Pricing Model: Cost-Plus:** Cost per unit × (1 + margin) · $12 + 50% = $18 · Best for physical products
+   _Picture: Calculator beside a stack of handmade goods._
+8. **Pricing Model: Value-Based:** Price on what it's worth to the customer · Save $200 → charge $300 · Best for services & expertise
+   _Picture: Balance scale weighing price against customer benefit._
+9. **Pricing Model: Competitive:** Above (premium) · At (quality) · Below (volume) · Warning: below is hard to raise later
+   _Picture: Three products lined up at low, mid, and high price points._
+10. **Pricing Model: Subscription:** Regular fee for ongoing access · Predictable revenue · Best for services, communities, content
+   _Picture: Recurring calendar with a monthly payment icon._
+11. **Activity: Draft + Calculate:** Write 3 value props · Apply "so what?" · Pick your model · Calculate your price
+   _Picture: Worksheet with three value-prop lines and a pricing box._
+12. **Close:** Tomorrow: stress-test pricing & refine with AI and peer feedback
+   _Picture: A value prop being pressure-tested under a gauge._
 
-## Videos used this week
-- [The psychological pricing tactic that attracts customers](https://www.youtube.com/shorts/NmHJl7-BVvc) ((short), <3m)
-- [How To Create a Value Proposition (Beginners)](https://www.youtube.com/watch?v=XQVQJmcNlcI) (HubSpot, ~5-8m)
-- [Understand in Under 5: Cost Plus Pricing](https://www.youtube.com/watch?v=8PKPI4SPEbo)
+## Videos for this week
+- [The psychological pricing tactic that attracts customers](https://www.youtube.com/shorts/NmHJl7-BVvc) ((short), <3m, slide 3)
+- [How To Create a Value Proposition (Beginners)](https://www.youtube.com/watch?v=XQVQJmcNlcI) (HubSpot, ~5-8m, slide 4)
+- [Understand in Under 5: Cost Plus Pricing](https://www.youtube.com/watch?v=8PKPI4SPEbo) (<5m, slide 7)
+
+## Podcast
+Listen — Crafting a Compelling Value Proposition + Pricing Models: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1txKzVIylw7JHv6c1z1Qirid5bPVUOek6/edit
+- Lesson plan doc: https://docs.google.com/document/d/1G74LHLiYfxdl71PGLFrCJ0yjjXjapCBR/edit
+- Slide outline doc: https://docs.google.com/document/d/1ygrHQ0GEQd5aTSzj2yjHY6WWa161D_f_/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** What have you actually built so far — and what does your business need most in the next 18 weeks?
 
+_When it last ran: Week of January 5, 2026 · 7:30–9:00 AM · First week back from winter break — adjust dates to your calendar · First week back from winter break — adjust dates to your calendar. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Audit their business progress across Units 1 and 2.
 - Identify the strongest and weakest part of their business right now.
@@ -17,20 +19,41 @@ Unit 2: Customer & Product
 - **Thursday:** Speaker Recap + Thank You Cards + Work Day
 - **Friday:** Profit or Broke + 1-on-1s + Semester 2 Kickoff
 
-## Key ideas (from the slides)
-- **Title:** Welcome Back · Semester 1 Reset · Where You Are & Where You're Going
-- **Warm-Up:** Your business over break — in one sentence · Thought about it? Worked on it? Forgot it?
-- **The Big Question:** What have you actually built — and what does your business need most in the next 18 weeks?
-- **Business Audit:** Honest audit of Units 1 & 2 · Get the engine running again
-- **What to Audit:** Problem + customer · May-B-P + MVP · Customer discovery · Value prop + price · Traction
-- **Strongest / Weakest:** Circle your strongest part · Underline your weakest
-- **Pair Share:** Share both with a partner · Why is that the weak spot? · What would it take to fix it?
-- **Patterns on the Board:** A few share their weakest area · Where we push this semester
-- **Close:** Tomorrow: turn this audit into 3 real goals · Start your business portfolio
+## This week's AI tool
+Progress Audit + Goal Setter: An honest read on where your business actually stands after one semester - and three goals for the next one you'll actually hit. Open curriculum/tools/week18-progress-audit.md to run it.
 
-## Videos used this week
-- [Renew Your Motivation With The Fresh Start Effect](https://www.youtube.com/watch?v=yxQubZ9mtVo)
-- [Year-end checklist: must-do tasks for small businesses](https://www.youtube.com/watch?v=YxR_-14U9l0) (QuickBooks, ?)
+## Monday slide outline
+1. **Title:** Welcome Back · Semester 1 Reset · Where You Are & Where You're Going
+   _Picture: Sunrise over an open road, fresh-start feel._
+2. **Warm-Up:** Your business over break — in one sentence · Thought about it? Worked on it? Forgot it?
+   _Picture: Winter break scene — snowy window, coffee, notebook._
+3. **The Big Question:** What have you actually built — and what does your business need most in the next 18 weeks?
+   _Picture: Split road sign pointing "built so far" and "next 18 weeks."_
+4. **Business Audit:** Honest audit of Units 1 & 2 · Get the engine running again
+   _Picture: Clipboard with a checklist and a magnifying glass._
+5. **What to Audit:** Problem + customer · May-B-P + MVP · Customer discovery · Value prop + price · Traction
+   _Picture: Five icons in a row for the five audit areas._
+6. **Strongest / Weakest:** Circle your strongest part · Underline your weakest
+   _Picture: A bar chart with one tall bar circled and one short bar underlined._
+7. **Pair Share:** Share both with a partner · Why is that the weak spot? · What would it take to fix it?
+   _Picture: Two students talking across a table._
+8. **Patterns on the Board:** A few share their weakest area · Where we push this semester
+   _Picture: Whiteboard with clustered sticky notes._
+9. **Close:** Tomorrow: turn this audit into 3 real goals · Start your business portfolio
+   _Picture: Notebook page headed "Semester 2 Goals" with three blank lines._
+
+## Videos for this week
+- [Renew Your Motivation With The Fresh Start Effect](https://www.youtube.com/watch?v=yxQubZ9mtVo) (?, slide 1)
+- [Year-end checklist: must-do tasks for small businesses](https://www.youtube.com/watch?v=YxR_-14U9l0) (QuickBooks, ?, slide 4)
+
+## Podcast
+Listen — Semester 1 Review: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1pt0hveu0vzxDAau8FdTr3uvRpAHNa2j0/edit
+- Lesson plan doc: https://docs.google.com/document/d/1fgOeRRSPoAf6BEs5AePvxGlNpWHl_oK7/edit
+- Slide outline doc: https://docs.google.com/document/d/1eRpr5ZN30ocry748Swq__Lk6c3cwGDZF/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

@@ -8,7 +8,8 @@ RISE Coach reads `index.json` for a table of contents, then opens individual fil
 
 | Folder | What | Edit by hand? |
 |---|---|---|
-| `curriculum/weeks/` | All 36 weeks: objectives, the week at a glance, key ideas, videos, lesson walkthrough | No. Generated from Moxie Hub |
+| `curriculum/weeks/` | All 36 weeks: objectives, the week at a glance, materials, facilitator notes, the Monday slide outline, every video, source deck and doc links, lesson walkthrough | No. Generated from Moxie Hub |
+| `curriculum/tools/` | The weekly AI tools (weeks 18, 23, 24, 25, 31): what each asks for and the task it runs | No. Generated |
 | `curriculum/articles/` | One plain-language article per week | No. Generated |
 | `curriculum/overview.md`, `how-we-teach.md` | The five units, and the teaching approach | No. Generated |
 | `skills/<name>/SKILL.md` | Skills the coach follows to produce an output | **Yes** |
@@ -54,7 +55,7 @@ The curriculum's source of truth is Moxie Hub. After it changes:
 node tools/build.mjs /path/to/moxie-hub
 ```
 
-The build leaves out Google Doc links, facilitator notes and class dates.
+The build carries over everything in Moxie Hub's curriculum. The one thing it strips is the Google account id on Drive links. Podcast audio isn't included because it isn't text.
 
 ## This repo is public
 

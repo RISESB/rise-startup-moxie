@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** Who is already doing the work you want to do — and what can you learn from getting close to them?
 
+_When it last ran: Week of October 6, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Return to Walk, Talk, Show Up with more focused eyes after Unit 1 work.
 - Identify mentors, peers, and resources in their entrepreneurial ecosystem.
@@ -17,23 +19,43 @@ Unit 1: Foundations & Identity
 - **Thursday:** Speaker Recap + Thank You Cards + Discovery Deep Dive
 - **Friday:** Founder Fight + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Who do you know doing something entrepreneurial?
-- **Going Deeper:** Unit 1 → the next phase
-- **You Don't Build Alone:** Entrepreneurship is not a solo sport.
-- **What Is an Ecosystem?:** Entrepreneurial ecosystem
-- **The 5 Rings:** You at the center — 5 rings
-- **Matchmaking:** Connect on purpose — don't wait
-- **Show Up With Something to Offer:** Find them — and bring value
-- **Walk, Talk, Show Up — New Lens:** Same 3 moves — now to find people
-- **Activity: Map Your Ecosystem:** Draw it — you in the center, 5 rings
-- **Pair Share:** Trade maps with a partner
-- **Close:** Your top 3 matchmaking targets
+## Monday slide outline
+1. **Warm-Up:** Who do you know doing something entrepreneurial?
+   _Picture: Neighborhood street with small local shops and vendors_
+2. **Going Deeper:** Unit 1 → the next phase
+   _Picture: Path or staircase climbing toward a wider horizon_
+3. **You Don't Build Alone:** Entrepreneurship is not a solo sport.
+   _Picture: Sports team huddle or relay handoff_
+4. **What Is an Ecosystem?:** Entrepreneurial ecosystem
+   _Picture: Interconnected network diagram with people icons as nodes_
+5. **The 5 Rings:** You at the center — 5 rings
+   _Picture: Concentric-ring bullseye diagram, person in the center_
+6. **Matchmaking:** Connect on purpose — don't wait
+   _Picture: Two puzzle pieces coming together_
+7. **Show Up With Something to Offer:** Find them — and bring value
+   _Picture: Two people shaking hands at a community event_
+8. **Walk, Talk, Show Up — New Lens:** Same 3 moves — now to find people
+   _Picture: Person walking through a busy farmers market_
+9. **Activity: Map Your Ecosystem:** Draw it — you in the center, 5 rings
+   _Picture: Hand sketching a ring diagram on paper with markers_
+10. **Pair Share:** Trade maps with a partner
+   _Picture: Two students comparing notes side by side_
+11. **Close:** Your top 3 matchmaking targets
+   _Picture: Three stars or pins highlighted on a map_
 
-## Videos used this week
-- [Steve Jobs on asking for help](https://www.youtube.com/shorts/CNBvSFBPcc8) (reupload, ~1m)
-- [Entrepreneurial Ecosystems - Introduction](https://www.youtube.com/watch?v=ypOb3scm9eU) (Catalyzing the SME Ecosystem, ~4m)
-- [How to Effectively Network at In-Person Events](https://www.youtube.com/watch?v=pQ7EOvP_FjE) (Intern Queen, ~5m)
+## Videos for this week
+- [Steve Jobs on asking for help](https://www.youtube.com/shorts/CNBvSFBPcc8) (reupload, ~1m, slide 3)
+- [Entrepreneurial Ecosystems - Introduction](https://www.youtube.com/watch?v=ypOb3scm9eU) (Catalyzing the SME Ecosystem, ~4m, slide 4)
+- [How to Effectively Network at In-Person Events](https://www.youtube.com/watch?v=pQ7EOvP_FjE) (Intern Queen, ~5m, slide 8)
+
+## Podcast
+Listen — Matchmaking + Walk, Talk, Show Up: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1d954i7iN3myUxH0Ds8iCsPxQyufixekF/edit
+- Lesson plan doc: https://docs.google.com/document/d/1BP3nn1ilElGAcCYY-dQRqiQz_C_NgK-v/edit
+- Slide outline doc: https://docs.google.com/document/d/15IhHrnMfI5MR9_zZeJy_QxLywUIPdt9B/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

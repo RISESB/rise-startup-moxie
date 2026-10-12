@@ -4,6 +4,8 @@ Unit 5: The Showcase (Capstone)
 
 **Guiding question:** Can you present your business with confidence, handle real questions, and make your booth impossible to walk past?
 
+_When it last ran: Week of May 4, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Deliver a polished showcase presentation from memory.
 - Handle audience questions with confidence.
@@ -17,22 +19,41 @@ Unit 5: The Showcase (Capstone)
 - **Thursday:** Full Dress Rehearsal
 - **Friday:** Deal or No Deal + Final Prep + Confidence Close
 
-## Key ideas (from the slides)
-- **Warm-Up:** What scares you most about presenting?
-- **This Week: Rehearsal:** Present with confidence · handle questions · own the room
-- **Strong Open:** First 15 seconds hook them · Stat, question, or story
-- **Eyes Up:** Talk to people, not slides
-- **Slow Down:** Pause · Breathe · Let points land
-- **Body Language:** Stand tall · Hands open · Feet planted
-- **Strong Close:** End with your ask + one memorable line
-- **Activity: First Run-Throughs:** Small groups · Full presentation once · One strength + one fix
-- **Watch For:** Reading off slides · Rushing
-- **Close + Homework:** Practice out loud 3× before tomorrow · Time it
+## Monday slide outline
+1. **Warm-Up:** What scares you most about presenting?
+   _Picture: Nervous speaker peeking out from behind a curtain_
+2. **This Week: Rehearsal:** Present with confidence · handle questions · own the room
+   _Picture: Confident young presenter mid-gesture on a small stage_
+3. **Strong Open:** First 15 seconds hook them · Stat, question, or story
+   _Picture: Fishhook catching an audience's attention_
+4. **Eyes Up:** Talk to people, not slides
+   _Picture: Presenter making eye contact with the crowd_
+5. **Slow Down:** Pause · Breathe · Let points land
+   _Picture: Speaker mid-pause, calm and composed_
+6. **Body Language:** Stand tall · Hands open · Feet planted
+   _Picture: Confident open posture silhouette_
+7. **Strong Close:** End with your ask + one memorable line
+   _Picture: Mic-drop moment at the end of a talk_
+8. **Activity: First Run-Throughs:** Small groups · Full presentation once · One strength + one fix
+   _Picture: Small circle of students watching a peer present_
+9. **Watch For:** Reading off slides · Rushing
+   _Picture: Two red-flag icons: eyes-down and a speeding clock_
+10. **Close + Homework:** Practice out loud 3× before tomorrow · Time it
+   _Picture: Student rehearsing aloud with a stopwatch at home_
 
-## Videos used this week
-- [Public Speaking Tips for Students](https://www.youtube.com/watch?v=cwE_ZRlwWZg) (Educational Tips by Blue Bird, ~3-5m)
-- [Start Your Presentation: Three-Word Hook Formula](https://www.youtube.com/watch?v=EehAfpzed60) (Rich Mulholland, ~5-7m)
-- [4 Body Language Tips from a Champion Speaker](https://www.youtube.com/watch?v=ZK3jSXYBNak) (Business Insider, ~4m)
+## Videos for this week
+- [Public Speaking Tips for Students](https://www.youtube.com/watch?v=cwE_ZRlwWZg) (Educational Tips by Blue Bird, ~3-5m, slide 2)
+- [Start Your Presentation: Three-Word Hook Formula](https://www.youtube.com/watch?v=EehAfpzed60) (Rich Mulholland, ~5-7m, slide 3)
+- [4 Body Language Tips from a Champion Speaker](https://www.youtube.com/watch?v=ZK3jSXYBNak) (Business Insider, ~4m, slide 6)
+
+## Podcast
+Listen — The End Part 2: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1OiMCgbHxEuGyZHEuXzVNeJ0-hm-WSpwX/edit
+- Lesson plan doc: https://docs.google.com/document/d/1yg9mzrtK0YF53HAeBDTuV4TfOVUw0vlt/edit
+- Slide outline doc: https://docs.google.com/document/d/14xvup9_MQJzF-13YTlwfPK1qT-n0hhv1/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

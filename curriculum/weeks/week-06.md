@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** How do you communicate what you do in a way that makes people lean in — not tune out?
 
+_When it last ran: Week of September 29, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Deliver a 60-second Micro Pitch of their business idea.
 - Use the Problem-Solution-Ask framework to structure a pitch.
@@ -24,19 +26,39 @@ Unit 1: Foundations & Identity
 - Speaker Tour Prep Worksheets
 - Thank you cards and pens
 
-## Key ideas (from the slides)
-- **Title:** Practice Your Pitch · A pitch is a conversation starter
-- **Warm-Up:** 10 seconds — your business in one sentence
-- **Problem → Solution → Ask:** Problem → Solution → Ask
-- **What Kills a Pitch:** Too long · No ask · Vague problem · Reading from notes
-- **Network Like a Pro:** Introduce with intention · Ask good questions · Follow up in 24h
-- **Write Your Pitch:** Write it · Say it out loud · Under 60 seconds
-- **Pair Feedback:** Most clear? · Most confusing? → revise
-- **Close:** Micro Pitch #1 is Thursday → get it tight tomorrow
+## Facilitator notes
+If a student goes over 60 seconds, stop them gently. "You are at 60. Land the plane."
 
-## Videos used this week
-- [How to Write an Elevator Pitch with Examples](https://www.youtube.com/watch?v=qk4rUQZzvv8) (Slidebean, ~6m)
-- [Networking 101: Introduce Yourself Like This](https://www.youtube.com/shorts/KH14liPe3KY) (Preston Chin, <1m)
+## Monday slide outline
+1. **Title:** Practice Your Pitch · A pitch is a conversation starter
+   _Picture: A speaker mid-sentence as a small group leans in._
+2. **Warm-Up:** 10 seconds — your business in one sentence
+   _Picture: A stopwatch at ten seconds._
+3. **Problem → Solution → Ask:** Problem → Solution → Ask
+   _Picture: Three connected arrow blocks left to right._
+4. **What Kills a Pitch:** Too long · No ask · Vague problem · Reading from notes
+   _Picture: A wilting/deflating speech bubble._
+5. **Network Like a Pro:** Introduce with intention · Ask good questions · Follow up in 24h
+   _Picture: Two professionals shaking hands at an event._
+6. **Write Your Pitch:** Write it · Say it out loud · Under 60 seconds
+   _Picture: Handwritten pitch on an index card with a stopwatch._
+7. **Pair Feedback:** Most clear? · Most confusing? → revise
+   _Picture: Two students practicing, one listening closely._
+8. **Close:** Micro Pitch #1 is Thursday → get it tight tomorrow
+   _Picture: A spotlight on an empty stage mic._
+
+## Videos for this week
+- [How to Write an Elevator Pitch with Examples](https://www.youtube.com/watch?v=qk4rUQZzvv8) (Slidebean, ~6m, slide 3)
+- [Networking 101: Introduce Yourself Like This](https://www.youtube.com/shorts/KH14liPe3KY) (Preston Chin, <1m, slide 5)
+
+## Podcast
+Listen — Practice Your Pitch: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1j1TUUSze4EEjhKsW-n444eN9Fgk8qCYy/edit
+- Lesson plan doc: https://docs.google.com/document/d/1Hoa9Un2MRKi4XLmZ80y8srxnA3efcQZL/edit
+- Slide outline doc: https://docs.google.com/document/d/1WUlKKOG_Dbliwm0CXljZc0bos5EXkzck/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

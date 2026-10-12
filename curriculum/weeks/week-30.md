@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** How do you make your business official, keep it legal, and run it so it doesn't depend on you remembering everything?
 
+_When it last ran: Week of March 30, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Compare the main legal structures (sole prop, LLC, partnership, corporation) in plain terms.
 - Identify the licenses, permits, or basics their type of business needs.
@@ -17,26 +19,46 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Operations Work Day
 - **Friday:** Profit or Broke + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Is your business "official" yet? What would make it feel official?
-- **Title / Big Idea:** Legal Structures + Operations. Set up legal + run on systems. (Not legal advice.)
-- **The Main Structures:** Sole Prop · LLC · Partnership · Corporation.
-- **The Word That Matters: Liability:** Limited liability = they generally can't take your personal savings. Why LLCs are popular.
-- **Start Simple, Grow Into It:** Most start as a sole prop → move to an LLC once there's real revenue and risk.
-- **Staying Legal:** Name registration · license/permit · sales tax · income & expense records.
-- **What Is Operations?:** How the work gets done, repeatably. Systems beat memory.
-- **The SOP:** Standard Operating Procedure — a step-by-step anyone could follow.
-- **The 50-Orders Test:** 50 orders at once tomorrow — could someone help using only your notes?
-- **Quick Audit:** Which structure now? Which later? What permits? Where do I look them up?
-- **Close / Preview:** Tomorrow: pick your structure and write your first real SOP.
+## Monday slide outline
+1. **Warm-Up:** Is your business "official" yet? What would make it feel official?
+   _Picture: Official-looking business certificate on a wall._
+2. **Title / Big Idea:** Legal Structures + Operations. Set up legal + run on systems. (Not legal advice.)
+   _Picture: Hobby workbench transforming into an organized shopfront._
+3. **The Main Structures:** Sole Prop · LLC · Partnership · Corporation.
+   _Picture: Four labeled building blocks of increasing size._
+4. **The Word That Matters: Liability:** Limited liability = they generally can't take your personal savings. Why LLCs are popular.
+   _Picture: Shield separating a person from a "business debts" box._
+5. **Start Simple, Grow Into It:** Most start as a sole prop → move to an LLC once there's real revenue and risk.
+   _Picture: Path from a small cart to a storefront._
+6. **Staying Legal:** Name registration · license/permit · sales tax · income & expense records.
+   _Picture: Checklist clipboard with permit and receipt icons._
+7. **What Is Operations?:** How the work gets done, repeatably. Systems beat memory.
+   _Picture: Smoothly turning gears in a machine._
+8. **The SOP:** Standard Operating Procedure — a step-by-step anyone could follow.
+   _Picture: Numbered step-by-step checklist card._
+9. **The 50-Orders Test:** 50 orders at once tomorrow — could someone help using only your notes?
+   _Picture: Overflowing order inbox with a helper stepping in._
+10. **Quick Audit:** Which structure now? Which later? What permits? Where do I look them up?
+   _Picture: Student mapping options on a worksheet._
+11. **Close / Preview:** Tomorrow: pick your structure and write your first real SOP.
+   _Picture: Blank SOP template ready to fill in._
 
-## Videos used this week
-- [Types of Business Ownership Explained](https://www.youtube.com/watch?v=BN2cQNNvg_4) (Two Teachers, ~5m)
-- [Sole Proprietorship vs LLC vs Corporation](https://www.youtube.com/watch?v=3lhpmvQkj6s) (Business Lawyer For Entrepreneurs, ~6m)
-- [What is Limited Liability?](https://www.youtube.com/shorts/7umOGlId3z4) (Study Legal English, <3m)
-- [Business License Basics Ep 1](https://www.youtube.com/watch?v=EkstYNsF-og) (CT Corporation, ~3m)
-- [Learn about Business Operations (5 Minutes)](https://www.youtube.com/watch?v=hHkbOqYzB88) (BioTech Whisperer, ~5m)
-- [What is an SOP](https://www.youtube.com/watch?v=vJtudSoH_gs) (LeanVlog, ~4m)
+## Videos for this week
+- [Types of Business Ownership Explained](https://www.youtube.com/watch?v=BN2cQNNvg_4) (Two Teachers, ~5m, slide 2)
+- [Sole Proprietorship vs LLC vs Corporation](https://www.youtube.com/watch?v=3lhpmvQkj6s) (Business Lawyer For Entrepreneurs, ~6m, slide 3)
+- [What is Limited Liability?](https://www.youtube.com/shorts/7umOGlId3z4) (Study Legal English, <3m, slide 4)
+- [Business License Basics Ep 1](https://www.youtube.com/watch?v=EkstYNsF-og) (CT Corporation, ~3m, slide 6)
+- [Learn about Business Operations (5 Minutes)](https://www.youtube.com/watch?v=hHkbOqYzB88) (BioTech Whisperer, ~5m, slide 7)
+- [What is an SOP](https://www.youtube.com/watch?v=vJtudSoH_gs) (LeanVlog, ~4m, slide 8)
+
+## Podcast
+Listen — Legal Structures + Operations: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/17NT0-W4Bp3dj83-57IBh3Im02opm6_3-/edit
+- Lesson plan doc: https://docs.google.com/document/d/1FSRcsKhvpk1HefDX6RLzCCX4oX1-IIK_/edit
+- Slide outline doc: https://docs.google.com/document/d/1uITjBW7ICM24iIcDtxuBXcs80UAlT9xk/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

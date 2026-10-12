@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** What do your potential customers actually experience — and is it what you assumed?
 
+_When it last ran: Week of November 3, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Design a 5-question customer discovery interview.
 - Conduct at least 2 real customer discovery conversations.
@@ -17,21 +19,40 @@ Unit 2: Customer & Product
 - **Thursday:** Speaker Recap + Thank You Cards + Interview Debrief
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Talked to a potential customer yet?
-- **People Lie:** Most customer conversations go wrong
-- **The Mom Test:** Even your mom says your idea is great
-- **The 3 Rules:** · Talk about their life, not your idea
-- **Bad Questions:** Don't ask
-- **Good Questions:** Ask instead
-- **What to Listen For:** · Pain — how much does it really bother them?
-- **Who to Talk To:** This week: 2+ real conversations
-- **Activity: Design Your Interview:** Write your 5 questions
-- **Close:** Homework: 1 real conversation before Thursday
+## Monday slide outline
+1. **Warm-Up:** Talked to a potential customer yet?
+   _Picture: Two people chatting casually over coffee_
+2. **People Lie:** Most customer conversations go wrong
+   _Picture: Polite but forced smile / thumbs-up that feels hollow_
+3. **The Mom Test:** Even your mom says your idea is great
+   _Picture: Book cover style graphic / mother and adult child talking_
+4. **The 3 Rules:** · Talk about their life, not your idea
+   _Picture: Ear icon larger than a mouth icon_
+5. **Bad Questions:** Don't ask
+   _Picture: Red X over a speech bubble_
+6. **Good Questions:** Ask instead
+   _Picture: Green check over a speech bubble_
+7. **What to Listen For:** · Pain — how much does it really bother them?
+   _Picture: Person leaning in, listening closely, taking notes_
+8. **Who to Talk To:** This week: 2+ real conversations
+   _Picture: Diverse strangers representing a target customer group_
+9. **Activity: Design Your Interview:** Write your 5 questions
+   _Picture: Notebook with a numbered list of questions_
+10. **Close:** Homework: 1 real conversation before Thursday
+   _Picture: Speech bubble with a quotation mark inside_
 
-## Videos used this week
-- [The Mom Test: 6 Minute Summary](https://www.youtube.com/watch?v=JQ20oLcoQww) (SnapTale Audiobook Summaries, ~6m)
-- [Customer Discovery: What Do You Ask (Justin Wilcox)](https://www.youtube.com/watch?v=OTkP2JDeGWM) (Techstars, >6m)
+## Videos for this week
+- [The Mom Test: 6 Minute Summary](https://www.youtube.com/watch?v=JQ20oLcoQww) (SnapTale Audiobook Summaries, ~6m, slide 3)
+- [Customer Discovery: What Do You Ask (Justin Wilcox)](https://www.youtube.com/watch?v=OTkP2JDeGWM) (Techstars, >6m, slide 9)
+
+## Podcast
+Listen — Customer Discovery Interviews + Target Market Definition: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1i4yfIaW-af6Vb-emfIjbVJgZ4yuExjZY/edit
+- Lesson plan doc: https://docs.google.com/document/d/1A1QSoZ2M1vLWnAdLFOzEJ21YXEX0wJGp/edit
+- Slide outline doc: https://docs.google.com/document/d/14eBVmb1WPtxhCxDFBBaljLkq9USSHEFS/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** How do you present your business to the community so they understand it, remember it, and want to support it?
 
+_When it last ran: Week of February 23, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Build a clean, professional booth/table display for their business.
 - Prepare a 30-second and a 2-minute version of their pitch.
@@ -17,21 +19,43 @@ Unit 3: Marketing & Brand
 - **Thursday:** Pitch Practice + Booth Dry Run
 - **Friday:** Founder Fight + Final Prep + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** A booth you walked past — what made you stop, or keep walking?
-- **Your Chance to Show What You Built:** 5 seconds to earn a stop · 30 seconds to earn a conversation.
-- **The 3-Second Rule:** From across the room, they instantly get what you do · One bold headline, clean look.
-- **What They See From 10 Feet:** Big name + one-line what-you-do · One strong visual · Clean table — less is more.
-- **The 30-Second Hook:** Problem · Solution · One interesting thing — not your life story.
-- **Hook Example:** "Fresh meal kits from local farms for busy families — dinner in 20 minutes. Want to see how it works?"
-- **Engaging Guests:** Stand beside the table, not behind it · Make eye contact · Open with a question, not a pitch.
-- **Capturing Contacts:** Signup sheet or QR code ready · Give a reason to sign up · Follow up within 48 hours.
-- **Activity: Plan Your Booth:** Headline · Visual · What you'll display or demo · How you'll capture contacts · Sketch the layout.
-- **Close:** Earn the stop, earn the conversation · Tomorrow: build your materials.
+## This week's AI tool
+Booth + One-Pager Kit: Everything you need to work a table at the open house: one-pager copy, a booth setup checklist, and a 30-second and 2-minute version of your pitch. Open curriculum/tools/week25-booth-onepager-kit.md to run it.
 
-## Videos used this week
-- [Attract More People To Your Booth](https://www.youtube.com/watch?v=SJ_WEi2VdJ8) (Kick Ass Media, 6:28)
-- [Perfect 30-Second Elevator Pitch Example](https://www.youtube.com/watch?v=ZjSJ6jrYZf4) (ChetChat, 1:07)
+## Monday slide outline
+1. **Warm-Up:** A booth you walked past — what made you stop, or keep walking?
+   _Picture: A crowded event hall with rows of booths._
+2. **Your Chance to Show What You Built:** 5 seconds to earn a stop · 30 seconds to earn a conversation.
+   _Picture: A stopwatch beside a friendly booth._
+3. **The 3-Second Rule:** From across the room, they instantly get what you do · One bold headline, clean look.
+   _Picture: A bold, simple booth banner readable from a distance._
+4. **What They See From 10 Feet:** Big name + one-line what-you-do · One strong visual · Clean table — less is more.
+   _Picture: Tidy booth: large sign, one product, uncluttered surface._
+5. **The 30-Second Hook:** Problem · Solution · One interesting thing — not your life story.
+   _Picture: A speech bubble with three short beats._
+6. **Hook Example:** "Fresh meal kits from local farms for busy families — dinner in 20 minutes. Want to see how it works?"
+   _Picture: A friendly founder greeting a visitor at a table._
+7. **Engaging Guests:** Stand beside the table, not behind it · Make eye contact · Open with a question, not a pitch.
+   _Picture: Founder stepping out from behind a booth to greet someone._
+8. **Capturing Contacts:** Signup sheet or QR code ready · Give a reason to sign up · Follow up within 48 hours.
+   _Picture: A QR code sign and a clipboard signup sheet on a table._
+9. **Activity: Plan Your Booth:** Headline · Visual · What you'll display or demo · How you'll capture contacts · Sketch the layout.
+   _Picture: Student sketching a table layout on paper._
+10. **Close:** Earn the stop, earn the conversation · Tomorrow: build your materials.
+   _Picture: A finished booth mockup ready for guests._
+
+## Videos for this week
+- [Attract More People To Your Booth](https://www.youtube.com/watch?v=SJ_WEi2VdJ8) (Kick Ass Media, 6:28, slide 2)
+- [Perfect 30-Second Elevator Pitch Example](https://www.youtube.com/watch?v=ZjSJ6jrYZf4) (ChetChat, 1:07, slide 5)
+
+## Podcast
+Listen — Open House Prep: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1VVBlef5wcbfOv7ycWK76zl_VhfMQ7hu0/edit
+- Lesson plan doc: https://docs.google.com/document/d/1FDH9AFdUyLy8cSynY1gMSaGrDR0QAmZ9/edit
+- Slide outline doc: https://docs.google.com/document/d/1s4G3FqEjRhWchzfDGkFJAcol5LMeURZN/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

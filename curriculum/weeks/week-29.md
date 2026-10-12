@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** Where does money to grow come from — and how do you protect your business from what could go wrong?
 
+_When it last ran: Week of March 23, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Compare the main ways to fund a business and the trade-offs of each.
 - Explain the difference between debt and equity in plain terms.
@@ -17,24 +19,44 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Work Day
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Someone offers $10,000 for your business today. What do you ask first?
-- **Title / Big Idea:** Funding Options + Risk Management. Free money is a myth.
-- **The Funding Ladder:** Bootstrap · Friends & family · Grants · Loans · Investors.
-- **Every Option Has a Cost:** Slower · relationships · strings attached · you owe it · you give up ownership.
-- **Debt vs. Equity:** Debt = borrow & repay with interest. Equity = sell a share, forever.
-- **Guest vs. Roommate:** Debt = a guest who leaves. Equity = a roommate who never moves out.
-- **Risk Management:** Amateurs ignore risk. Pros name it out loud and reduce it early.
-- **Four Common Risks:** Customer · Supply · Money · Founder — each with a way to reduce it.
-- **Affordable Loss:** Never risk more than you can afford to lose. (Effectuation, Week 9.)
-- **Funding Fit: First Pass:** Do I need outside money now? If yes, which fits? If no, grow from sales.
-- **Close / Preview:** Tomorrow: map your real risks and lock in your funding thinking.
+## Monday slide outline
+1. **Warm-Up:** Someone offers $10,000 for your business today. What do you ask first?
+   _Picture: Hand holding out a stack of cash._
+2. **Title / Big Idea:** Funding Options + Risk Management. Free money is a myth.
+   _Picture: Price tag hanging off a dollar sign._
+3. **The Funding Ladder:** Bootstrap · Friends & family · Grants · Loans · Investors.
+   _Picture: Ladder with a funding source on each rung._
+4. **Every Option Has a Cost:** Slower · relationships · strings attached · you owe it · you give up ownership.
+   _Picture: Balance scale weighing benefit against cost._
+5. **Debt vs. Equity:** Debt = borrow & repay with interest. Equity = sell a share, forever.
+   _Picture: Split panel — loan contract vs. pie chart of ownership._
+6. **Guest vs. Roommate:** Debt = a guest who leaves. Equity = a roommate who never moves out.
+   _Picture: Guest waving goodbye vs. roommate on the couch._
+7. **Risk Management:** Amateurs ignore risk. Pros name it out loud and reduce it early.
+   _Picture: Chess player thinking several moves ahead._
+8. **Four Common Risks:** Customer · Supply · Money · Founder — each with a way to reduce it.
+   _Picture: Four warning icons, each with a shield._
+9. **Affordable Loss:** Never risk more than you can afford to lose. (Effectuation, Week 9.)
+   _Picture: Poker chips with a small pile pushed forward._
+10. **Funding Fit: First Pass:** Do I need outside money now? If yes, which fits? If no, grow from sales.
+   _Picture: Decision fork in a road._
+11. **Close / Preview:** Tomorrow: map your real risks and lock in your funding thinking.
+   _Picture: Risk map grid preview — likelihood vs. impact._
 
-## Videos used this week
-- [How Startup Funding Works](https://www.youtube.com/watch?v=Cw58F0k8BDg) (TK Kader, ~4-5m)
-- [12 Smart Ways to Fund Your Startup](https://www.youtube.com/watch?v=apmhSARaAdU) (UpCounsel, ~8-10m)
-- [Difference Between Equity and Debt](https://www.youtube.com/watch?v=kGIPHDlAOSs) (Dev Bank Wales, ~2-3m)
-- [Risk Management Basics for Business Owners](https://www.youtube.com/watch?v=zgKg5DsLlC4) (The National Law Review, ~5-8m)
+## Videos for this week
+- [How Startup Funding Works](https://www.youtube.com/watch?v=Cw58F0k8BDg) (TK Kader, ~4-5m, slide 2)
+- [12 Smart Ways to Fund Your Startup](https://www.youtube.com/watch?v=apmhSARaAdU) (UpCounsel, ~8-10m, slide 3)
+- [Difference Between Equity and Debt](https://www.youtube.com/watch?v=kGIPHDlAOSs) (Dev Bank Wales, ~2-3m, slide 5)
+- [Risk Management Basics for Business Owners](https://www.youtube.com/watch?v=zgKg5DsLlC4) (The National Law Review, ~5-8m, slide 7)
+
+## Podcast
+Listen — Funding Options + Risk Management: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/195f3cRJnTGi6NcfamdnTCyqcof-gMTLp/edit
+- Lesson plan doc: https://docs.google.com/document/d/1zFaIW0XlmG8UVaB8QB5xZBIbEa7F87C8/edit
+- Slide outline doc: https://docs.google.com/document/d/1-Js5yd476jC2z7l_Q7a1-dwDHW7-s-kr/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

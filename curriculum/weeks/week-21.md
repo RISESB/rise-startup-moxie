@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** What are the actual tools you use to put your brand in front of your customer — and how do you use them well?
 
+_When it last ran: Week of January 26, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Identify the 2-3 digital channels that best fit their segment.
 - Build one real marketing asset (post, landing page, or short video).
@@ -23,22 +25,40 @@ Unit 3: Marketing & Brand
 - Speaker Tour Prep Worksheets
 - Thank you cards and pens
 
-## Key ideas (from the slides)
-- **Title:** Digital Marketing Tools · Put your brand in front of your customer
-- **Warm-Up:** Where did you last discover a product online? · What made you stop scrolling?
-- **You Don't Need All of Them:** Dozens of tools exist · You need the 2–3 where your segment already is · Go where they are
-- **The Main Channels:** Social media · Landing pages · Short video · Email/text lists · Local + community
-- **Match the Channel to the Segment:** Teens → short video · Local parents → Facebook groups & events · Businesses → LinkedIn & email
-- **Organic vs. Paid:** Organic = free, slow, builds trust · Paid = fast, stops when money stops · Start organic
-- **Capture Leads:** Attention with nowhere to send it = wasted · Every asset needs a next step · Link, signup, DM, form
-- **Your Turn:** Pick your top 2–3 channels · Choose ONE asset to build tomorrow: post, landing page, or short video
-- **Close:** Tomorrow: build a real asset you can actually publish
+## Monday slide outline
+1. **Title:** Digital Marketing Tools · Put your brand in front of your customer
+   _Picture: Phone screen surrounded by social, email, and web app icons._
+2. **Warm-Up:** Where did you last discover a product online? · What made you stop scrolling?
+   _Picture: Thumb mid-scroll on a phone feed._
+3. **You Don't Need All of Them:** Dozens of tools exist · You need the 2–3 where your segment already is · Go where they are
+   _Picture: Cluttered toolbox with three tools pulled out and highlighted._
+4. **The Main Channels:** Social media · Landing pages · Short video · Email/text lists · Local + community
+   _Picture: Five labeled channel icons in a row._
+5. **Match the Channel to the Segment:** Teens → short video · Local parents → Facebook groups & events · Businesses → LinkedIn & email
+   _Picture: Lines connecting three customer types to three matching platforms._
+6. **Organic vs. Paid:** Organic = free, slow, builds trust · Paid = fast, stops when money stops · Start organic
+   _Picture: Split image: a growing plant vs. a coin-fed meter._
+7. **Capture Leads:** Attention with nowhere to send it = wasted · Every asset needs a next step · Link, signup, DM, form
+   _Picture: Funnel turning scattered people into a tidy signup list._
+8. **Your Turn:** Pick your top 2–3 channels · Choose ONE asset to build tomorrow: post, landing page, or short video
+   _Picture: Three cards labeled Post, Landing Page, Short Video._
+9. **Close:** Tomorrow: build a real asset you can actually publish
+   _Picture: A "Publish" button glowing on a screen._
 
-## Videos used this week
-- [Digital Marketing Explained in 5 Minutes](https://www.youtube.com/watch?v=_5v3w9iv_Hk) (Beginner's Guide, ~5m)
-- [Digital Marketing In 5 Minutes](https://www.youtube.com/watch?v=bixR-KIJKYM) (Simplilearn, ~5m)
-- [Organic Marketing versus Paid Marketing](https://www.youtube.com/watch?v=SpFIASWBics)
-- [Capture & Manage Leads with Google Forms + Sheets](https://www.youtube.com/watch?v=pqhWonrIHjo)
+## Videos for this week
+- [Digital Marketing Explained in 5 Minutes](https://www.youtube.com/watch?v=_5v3w9iv_Hk) (Beginner's Guide, ~5m, slide 1)
+- [Digital Marketing In 5 Minutes](https://www.youtube.com/watch?v=bixR-KIJKYM) (Simplilearn, ~5m, slide 4)
+- [Organic Marketing versus Paid Marketing](https://www.youtube.com/watch?v=SpFIASWBics) (~1m, slide 6)
+- [Capture & Manage Leads with Google Forms + Sheets](https://www.youtube.com/watch?v=pqhWonrIHjo) (longer, slide 7)
+
+## Podcast
+Listen — Digital Marketing Tools: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/13JEOcvGgdx9vsAMtSE-dPuj_sfAgEGnk/edit
+- Lesson plan doc: https://docs.google.com/document/d/1UcP2a5OXzT5aI2z-k7LcYdLh_Out_3v_/edit
+- Slide outline doc: https://docs.google.com/document/d/1nAt-Yf5CyX5thINurfPWws3Xi0dIubMN/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

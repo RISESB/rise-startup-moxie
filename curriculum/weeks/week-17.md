@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** This is the Unit 2 final. Students build an 8-slide pitch deck using Notre Dame McCloskey Business Plan Competition Round 2 standards and deliver a 2-minute pitch to the class. This is a real format used in real competitions — hold students to that standard.
 
+_When it last ran: Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## The week at a glance
 - **Monday:** Deck Build Day 1 — Problem, Solution, Market
 - **Tuesday:** Deck Build Day 2 — Business Model, Traction, Financials, Ask
@@ -11,24 +13,46 @@ Unit 2: Customer & Product
 - **Thursday:** Practice Pitches + Feedback
 - **Friday:** Final Pitches to the Class
 
-## Key ideas (from the slides)
-- **Title:** Unit 2 Final · Build Your Pitch Deck · Pitch Friday
-- **The Standard:** Notre Dame McCloskey Round 2 format · A real competition standard
-- **The Pitch Rules:** 2 min pitch → 2 min Q&A · Deck on screen · No reading from notes · Class = investor panel
-- **The 8-Slide Deck:** Cover · Problem · Solution · Market · Business Model · Traction · Financials · The Ask
-- **Slide 1: Cover:** Business name · Tagline (what you do in one line) · Founder name
-- **Slide 2: Problem:** A specific problem · A specific customer · Why it matters now
-- **Slide 3: Solution:** What you offer · Why it's different · One proof point
-- **Slide 4: Market:** Who your ideal customer is · How many exist · TAM / SAM / SOM or local estimate
-- **Build Time:** Build slides 1–4 today · Google Slides or Canva · Rough is fine
-- **Close:** Goal: rough slides 1–4 done · Tomorrow: slides 5–8
+## Facilitator notes
+No game Friday this week — the final pitches ARE the culminating activity. Give every student their Unit 2 reflection from Week 16 Friday to use as reference while building their deck.
 
-## Videos used this week
-- [TheTideBed - Blue Ocean Competition 2025 Pitch](https://www.youtube.com/watch?v=QNdBsfaSExY) (Blue Ocean, 3-5m)
-- [PathWorks - McCloskey Business Plan Competition](https://www.youtube.com/watch?v=4tAYG0d-gCM)
-- [15 Slides you NEED on your Pitch Deck](https://www.youtube.com/watch?v=Ri0Pe1Y6lwM) (Slidebean, >6m)
-- [Defining the Problem - 5 Steps](https://www.youtube.com/watch?v=2rJRVv-NOaA)
-- [TAM SAM SOM Explained: Market Sizing for Beginners](https://www.youtube.com/watch?v=SGJjStEWNQI)
+## Monday slide outline
+1. **Title:** Unit 2 Final · Build Your Pitch Deck · Pitch Friday
+   _Picture: Founder on stage pitching to an audience with a slide behind them._
+2. **The Standard:** Notre Dame McCloskey Round 2 format · A real competition standard
+   _Picture: Notre Dame McCloskey Business Plan Competition logo or a collegiate pitch event photo._
+3. **The Pitch Rules:** 2 min pitch → 2 min Q&A · Deck on screen · No reading from notes · Class = investor panel
+   _Picture: Stopwatch beside a microphone._
+4. **The 8-Slide Deck:** Cover · Problem · Solution · Market · Business Model · Traction · Financials · The Ask
+   _Picture: Grid of 8 numbered slide thumbnails._
+5. **Slide 1: Cover:** Business name · Tagline (what you do in one line) · Founder name
+   _Picture: Clean sample cover slide with a bold logo and tagline._
+6. **Slide 2: Problem:** A specific problem · A specific customer · Why it matters now
+   _Picture: A frustrated person facing a clear everyday problem._
+7. **Slide 3: Solution:** What you offer · Why it's different · One proof point
+   _Picture: Product or service shown in use._
+8. **Slide 4: Market:** Who your ideal customer is · How many exist · TAM / SAM / SOM or local estimate
+   _Picture: Three nested circles labeled TAM, SAM, SOM._
+9. **Build Time:** Build slides 1–4 today · Google Slides or Canva · Rough is fine
+   _Picture: Student working on a laptop with a slide deck open._
+10. **Close:** Goal: rough slides 1–4 done · Tomorrow: slides 5–8
+   _Picture: Checklist with the first four boxes ticked._
+
+## Videos for this week
+- [TheTideBed - Blue Ocean Competition 2025 Pitch](https://www.youtube.com/watch?v=QNdBsfaSExY) (Blue Ocean, 3-5m, slide 1)
+- [PathWorks - McCloskey Business Plan Competition](https://www.youtube.com/watch?v=4tAYG0d-gCM) (?, slide 2)
+- [15 Slides you NEED on your Pitch Deck](https://www.youtube.com/watch?v=Ri0Pe1Y6lwM) (Slidebean, >6m, slide 4)
+- [Defining the Problem - 5 Steps](https://www.youtube.com/watch?v=2rJRVv-NOaA) (?, slide 6)
+- [TAM SAM SOM Explained: Market Sizing for Beginners](https://www.youtube.com/watch?v=SGJjStEWNQI) (?, slide 8)
+
+## Podcast
+Listen — Reflection + 2-Minute Pitch: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1B1fKX41D0S2nmvE9F1QBjT7_wRe4xEC2/edit
+- Lesson plan doc: https://docs.google.com/document/d/1JSJLpVoS2AnJf78o74XSnmZ6Vq80cwOr/edit
+- Slide outline doc: https://docs.google.com/document/d/1yyqljot-AJVbZgJel2IeNZhXlY5B19w4/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

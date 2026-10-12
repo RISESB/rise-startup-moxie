@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** Every business runs on assumptions: "People will pay this price." "Customers will find me online." "My supplier can deliver on time." This week students identify the riskiest assumptions in their businesses and test them before they become expensive mistakes.
 
+_When it last ran: Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Identify the 3 most critical assumptions their business depends on
 - Design a simple test for at least one assumption
@@ -17,19 +19,40 @@ Unit 2: Customer & Product
 - **Thursday:** Interpret Results + Pivot/Persevere Decision
 - **Friday:** Founder Fight + 1-on-1s + Unit 2 Preview
 
-## Key ideas (from the slides)
-- **Warm-Up: Convince Me:** 60-second pitch · The room plays skeptic · "How do you know?"
-- **Every Business Runs on Assumptions:** "People will pay this." · "Customers will find me." · "My supplier delivers on time."
-- **Assumption vs. Fact:** Assumption: believe but haven't proven · Fact: tested and confirmed
-- **Three Types of Risky Assumptions:** Desirability: do they want it? · Feasibility: can I deliver it? · Viability: will it make money?
-- **Which Type Is This?:** "People will pay $25 for my handmade candles." · Desirability, viability, or both?
-- **Activity: Map Your Assumptions:** List 5–7 assumptions your business depends on
-- **Rank on Two Axes:** Importance (1–5) · Confidence (1–5) · High importance + low confidence = test first
-- **Circle Your Top 3:** Your 3 "must-test" assumptions · Share one with a partner
-- **Close:** Know what you know, what you don't, what you'll bet on · Tomorrow: design a real test
+## Facilitator notes
+This is the final week before the Unit 2 final pitch (Week 17). Students should leave Week 16 knowing what they know, what they don't know, and what they're willing to bet on. Push them past "I think it'll work" into "here's what I tested and here's what happened."
 
-## Videos used this week
-- [Test Your Riskiest Assumptions (case study)](https://www.youtube.com/watch?v=3KRS11EIz5k)
+## Monday slide outline
+1. **Warm-Up: Convince Me:** 60-second pitch · The room plays skeptic · "How do you know?"
+   _Picture: A founder pitching to a skeptical, arms-crossed audience._
+2. **Every Business Runs on Assumptions:** "People will pay this." · "Customers will find me." · "My supplier delivers on time."
+   _Picture: A house built on wobbly question-mark stilts._
+3. **Assumption vs. Fact:** Assumption: believe but haven't proven · Fact: tested and confirmed
+   _Picture: Two columns — a guess vs. a checkmark with data._
+4. **Three Types of Risky Assumptions:** Desirability: do they want it? · Feasibility: can I deliver it? · Viability: will it make money?
+   _Picture: Three interlocking circles labeled with each type._
+5. **Which Type Is This?:** "People will pay $25 for my handmade candles." · Desirability, viability, or both?
+   _Picture: Handmade candle with a $25 price tag._
+6. **Activity: Map Your Assumptions:** List 5–7 assumptions your business depends on
+   _Picture: Sticky notes covering a whiteboard._
+7. **Rank on Two Axes:** Importance (1–5) · Confidence (1–5) · High importance + low confidence = test first
+   _Picture: 2×2 matrix with a highlighted "test first" corner._
+8. **Circle Your Top 3:** Your 3 "must-test" assumptions · Share one with a partner
+   _Picture: Three assumptions circled in red on a ranked list._
+9. **Close:** Know what you know, what you don't, what you'll bet on · Tomorrow: design a real test
+   _Picture: A scientist's beaker beside a business notebook._
+
+## Videos for this week
+- [Test Your Riskiest Assumptions (case study)](https://www.youtube.com/watch?v=3KRS11EIz5k) (?, slide 2)
+
+## Podcast
+Listen — Validating Key Assumptions: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1BhWQxJvzP7MvudEldem8jx17oljW-tuq/edit
+- Lesson plan doc: https://docs.google.com/document/d/1HW4n6Z2gr2MotKzPg3KAyi8Z8byz_yRX/edit
+- Slide outline doc: https://docs.google.com/document/d/1bP4nJzr66Hr1FeVDjbDEL2gHXyYm8ic1/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

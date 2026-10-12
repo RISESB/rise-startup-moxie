@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** What drives you — and how does that connect to the kind of entrepreneur you want to become?
 
+_When it last ran: Week of September 1, 2025 · 7:30–9:00 AM · 4-Day Week (Labor Day Monday) · 4-Day Week. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Identify their core values and articulate why they matter.
 - Understand their strengths using Ikigai, Wingfinder, and 16 Personalities.
@@ -24,20 +26,41 @@ Unit 1: Foundations & Identity
 - Printed Ikigai diagram (one per student)
 - Speaker Tour Prep Worksheets
 
-## Key ideas (from the slides)
-- **Title:** Finding Your Why · Values · Strengths · Direction
-- **Warm-Up:** Someone you admire → What do you respect about them?
-- **What Is a WHY?:** WHAT — the product · HOW — the way · WHY — the reason it matters
-- **Ikigai:** Love · Good at · World needs · Paid for → your sweet spot
-- **Wingfinder:** Thinking · Creativity · Drive · Influence → wingfinder.com
-- **16 Personalities:** How you think, work & connect → 16personalities.com
-- **Map Your Ikigai:** Fill all four circles · Be specific
-- **Pair Share:** Share your sweet spot → Does it point to a business?
-- **Close:** Keep your Ikigai → It feeds your About Me poster
+## Facilitator notes
+Walk the room while they take it. Keep them moving — don't let anyone stall.
 
-## Videos used this week
-- [Start With WHY (short)](https://www.youtube.com/watch?v=HjriwYrGL28) (QuickTalks, ~4m)
-- [Ikigai: A Japanese Philosophy for Finding Purpose](https://www.youtube.com/watch?v=4LE5bel_GvU) (Einzelganger, ~7m)
+## Monday slide outline
+1. **Title:** Finding Your Why · Values · Strengths · Direction
+   _Picture: A single lit path splitting toward different horizons._
+2. **Warm-Up:** Someone you admire → What do you respect about them?
+   _Picture: Two people in conversation, one listening intently._
+3. **What Is a WHY?:** WHAT — the product · HOW — the way · WHY — the reason it matters
+   _Picture: Simon Sinek's Golden Circle diagram (three nested rings)._
+4. **Ikigai:** Love · Good at · World needs · Paid for → your sweet spot
+   _Picture: Four-circle Ikigai Venn diagram with the center highlighted._
+5. **Wingfinder:** Thinking · Creativity · Drive · Influence → wingfinder.com
+   _Picture: Four labeled strength icons in a row._
+6. **16 Personalities:** How you think, work & connect → 16personalities.com
+   _Picture: Grid of 16 distinct personality-type avatars._
+7. **Map Your Ikigai:** Fill all four circles · Be specific
+   _Picture: Blank printed Ikigai worksheet with a pen resting on it._
+8. **Pair Share:** Share your sweet spot → Does it point to a business?
+   _Picture: Two students comparing notes at a table._
+9. **Close:** Keep your Ikigai → It feeds your About Me poster
+   _Picture: Hand pinning a personal collage poster to a wall._
+
+## Videos for this week
+- [Start With WHY (short)](https://www.youtube.com/watch?v=HjriwYrGL28) (QuickTalks, ~4m, slide 3)
+- [Ikigai: A Japanese Philosophy for Finding Purpose](https://www.youtube.com/watch?v=4LE5bel_GvU) (Einzelganger, ~7m, slide 4)
+
+## Podcast
+Listen — Finding Your Why: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1z8czB3MuAT7e2E1og4jMiOST-1rqATAX/edit
+- Lesson plan doc: https://docs.google.com/document/d/1Sr5sCOEkaIw0MBspwYG_pt6-t-YxY3q5/edit
+- Slide outline doc: https://docs.google.com/document/d/138oY1amGeS4Vb8tPZiJGqZIl_veZ5tnF/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

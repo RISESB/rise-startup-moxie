@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** What are the few numbers that actually tell you how your business is doing — and how do you use them to decide?
 
+_When it last ran: Week of April 6, 2026 · 7:30–9:00 AM · Unit 4: Analytics, Operations & the Showcase begins · Unit 4: Analytics, Operations & the Showcase begins. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Identify the key metrics (KPIs) that matter for their business.
 - Build a simple dashboard to track those numbers.
@@ -17,24 +19,46 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Data Work Day
 - **Friday:** Founder Fight + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** One number you could check today that tells you if your business is healthy?
-- **Title / Big Idea:** Business Analytics. Turn your numbers into decisions. Watch the RIGHT few.
-- **What Is a KPI?:** Key Performance Indicator. Track 3–5, not 50. "Key" is the word.
-- **Common Small-Business KPIs:** Revenue · units/customers · conversion · acquisition cost · repeat rate.
-- **Match KPIs to Your Goal:** Goal = growth → watch new customers. Goal = profit → watch margin & repeat rate.
-- **Vanity vs. Real Metrics:** 1,000 followers, 0 sales vs. 40 followers, 12 buyers. Watch what matters, not what flatters.
-- **Reading Trends:** $100 this week means nothing until you know last week. Compare across time.
-- **The Data Loop:** Track → notice a trend → ask why → make one change → track again. (OODA, Week 1.)
-- **Choose Your KPIs:** Pick 3–5 that match your goal. Cross out the vanity metrics.
-- **Close / Preview:** Tomorrow: build a dashboard to track these automatically.
+## This week's AI tool
+KPI Dashboard Builder: The 3–5 numbers that actually tell you how your business is doing - what each one means, what "good" looks like, and one decision to make from them. Open curriculum/tools/week31-kpi-dashboard.md to run it.
 
-## Videos used this week
-- [Data Analytics for Small Businesses](https://www.youtube.com/watch?v=c3rwd1aURNI) (RSM Australia, ?)
-- [What is a KPI? (With Examples)](https://www.youtube.com/watch?v=awVbH2j7mV0) (Business School 101, ~6m)
-- [Vanity Metrics vs Actionable Metrics](https://www.youtube.com/watch?v=kJ7NOw02grc) (Professor Wolters, ~5m)
-- [Identifying Trends in Graphs Mini Tutorial](https://www.youtube.com/watch?v=XYLlfsELXfs) (CHSBiomonsters, ~3m)
-- [The OODA Loop Explained](https://www.youtube.com/watch?v=SSraVDJ-z-k) (EPM, ~5m)
+## Monday slide outline
+1. **Warm-Up:** One number you could check today that tells you if your business is healthy?
+   _Picture: Single glowing gauge on a dashboard._
+2. **Title / Big Idea:** Business Analytics. Turn your numbers into decisions. Watch the RIGHT few.
+   _Picture: Founder studying a clean chart, not a wall of data._
+3. **What Is a KPI?:** Key Performance Indicator. Track 3–5, not 50. "Key" is the word.
+   _Picture: Five dials highlighted among dozens of dim ones._
+4. **Common Small-Business KPIs:** Revenue · units/customers · conversion · acquisition cost · repeat rate.
+   _Picture: Simple dashboard tiles, one per metric._
+5. **Match KPIs to Your Goal:** Goal = growth → watch new customers. Goal = profit → watch margin & repeat rate.
+   _Picture: Target with an arrow pointing to the right metric._
+6. **Vanity vs. Real Metrics:** 1,000 followers, 0 sales vs. 40 followers, 12 buyers. Watch what matters, not what flatters.
+   _Picture: Deflating "likes" balloon next to a full cash register._
+7. **Reading Trends:** $100 this week means nothing until you know last week. Compare across time.
+   _Picture: Line chart showing an upward trend over weeks._
+8. **The Data Loop:** Track → notice a trend → ask why → make one change → track again. (OODA, Week 1.)
+   _Picture: Circular loop diagram with the five steps._
+9. **Choose Your KPIs:** Pick 3–5 that match your goal. Cross out the vanity metrics.
+   _Picture: Hand circling a few items and crossing out others._
+10. **Close / Preview:** Tomorrow: build a dashboard to track these automatically.
+   _Picture: Spreadsheet dashboard with a simple chart preview._
+
+## Videos for this week
+- [Data Analytics for Small Businesses](https://www.youtube.com/watch?v=c3rwd1aURNI) (RSM Australia, ?, slide 2)
+- [What is a KPI? (With Examples)](https://www.youtube.com/watch?v=awVbH2j7mV0) (Business School 101, ~6m, slide 3)
+- [Vanity Metrics vs Actionable Metrics](https://www.youtube.com/watch?v=kJ7NOw02grc) (Professor Wolters, ~5m, slide 6)
+- [Identifying Trends in Graphs Mini Tutorial](https://www.youtube.com/watch?v=XYLlfsELXfs) (CHSBiomonsters, ~3m, slide 7)
+- [The OODA Loop Explained](https://www.youtube.com/watch?v=SSraVDJ-z-k) (EPM, ~5m, slide 8)
+
+## Podcast
+Listen — Business Analytics + Data-Driven Decisions: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1SQW0LEYQNnLV8IL38AaBmtSFehq5vho0/edit
+- Lesson plan doc: https://docs.google.com/document/d/1Zg2oHmJfyyDOR_pI8zPJuzcsQF_01aor/edit
+- Slide outline doc: https://docs.google.com/document/d/1B1fjhYC2nxJ1pEjqLLWgW0pvxGBAbM4x/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

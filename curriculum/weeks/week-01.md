@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** What does it mean to think like an entrepreneur, and why does it matter?
 
+_When it last ran: Week of August 25, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Define entrepreneurship in their own words.
 - Identify at least two entrepreneurial traits they already have.
@@ -25,22 +27,48 @@ Unit 1: Foundations & Identity
 - Laptops or tablets for Tuesday research
 - Trait Mapping worksheet (one per student — see Tuesday tab)
 
-## Key ideas (from the slides)
-- **Title:** "What Is Entrepreneurship?" · "Mindset, Practice & Life Design" · Week 1 · Monday
-- **Warm-Up:** "Meet two people you don't know" · Name · School · One thing they're proud of · "3 minutes"
-- **Opening Question:** "When I say 'entrepreneur' — who comes to mind?"
-- **The Myth:** "The Myth" · "Start a tech company. Raise millions. Get famous." · "That's the lottery version — not the whole story."
-- **A Better Definition:** "Entrepreneurship is the pursuit of opportunity beyond the resources you currently control." · sub-line: Pursuit of opportunity · Beyond your resources · What you have now is enough to begin
-- **The OODA Loop:** Observe → Orient → Decide → Act → (repeat). Subhead: "How entrepreneurs decide fast — with incomplete information."
-- **Discussion:** "Think of a problem that genuinely annoys you." · "Could it be a business?"
-- **Close + Goal Setting:** "This year I want to build ________." · "Write one sentence. Say it out loud to the person next to you." · footer: Next → Tuesday
+## Facilitator notes
+Start the timer visibly. If students freeze, physically point them toward someone.
 
-## Videos used this week
-- [Yes You Can Be an Entrepreneur Too](https://www.youtube.com/watch?v=DdlTvyQl5ws) (TED, ~9m)
-- [Entrepreneur Explained in 5 Minutes](https://www.youtube.com/watch?v=8VkGRAWmxp0) (FuseSchool, ~5m)
-- [8 Types of Entrepreneurs](https://www.youtube.com/watch?v=YhM4ui7BIJY) (Business School 101, ~7m)
-- [What is an entrepreneurial mindset?](https://www.youtube.com/watch?v=-gdH1hZNJ_M) (SETsquared Partnership, ~3m)
-- [The OODA Loop Explained](https://www.youtube.com/watch?v=SSraVDJ-z-k) (EPM, ~5m)
+## Monday slide outline
+1. **Title:** "What Is Entrepreneurship?" · "Mindset, Practice & Life Design" · Week 1 · Monday
+   _Picture: Energetic, diverse group of young people building / collaborating (not stock suits)._
+2. **Warm-Up:** "Meet two people you don't know" · Name · School · One thing they're proud of · "3 minutes"
+   _Picture: Two students mid-conversation / handshake, candid._
+3. **Opening Question:** "When I say 'entrepreneur' — who comes to mind?"
+   _Picture: Collage of famous founders (the stereotype)._
+4. **The Myth:** "The Myth" · "Start a tech company. Raise millions. Get famous." · "That's the lottery version — not the whole story."
+   _Picture: Split screen — Silicon Valley skyline vs. a local main-street shop owner._
+5. **A Better Definition:** "Entrepreneurship is the pursuit of opportunity beyond the resources you currently control." · sub-line: Pursuit of opportunity · Beyond your resources · What you have now is enough to begin
+   _Picture: A single person taking the first step onto an open road / trail._
+6. **Five Ways to Be an Entrepreneur:** 
+   _Picture: 4–6 panel grid of different kinds of entrepreneurs._
+7. **The Entrepreneurial Mindset:** 
+   _Picture: Lightbulb made of hands / person building from scraps._
+8. **The OODA Loop:** Observe → Orient → Decide → Act → (repeat). Subhead: "How entrepreneurs decide fast — with incomplete information."
+   _Picture: Clean OODA loop cycle diagram (4 arrows in a circle)._
+9. **Discussion:** "Think of a problem that genuinely annoys you." · "Could it be a business?"
+   _Picture: Students at a whiteboard with sticky notes._
+10. **Activity: My Entrepreneurial Identity:** 
+   _Picture: A filled-in worksheet / student journaling._
+11. **Close + Goal Setting:** "This year I want to build ________." · "Write one sentence. Say it out loud to the person next to you." · footer: Next → Tuesday
+   _Picture: Sunrise / open road — forward momentum._
+
+## Videos for this week
+- [Yes You Can Be an Entrepreneur Too](https://www.youtube.com/watch?v=DdlTvyQl5ws) (TED, ~9m, slide 4)
+- [Entrepreneur Explained in 5 Minutes](https://www.youtube.com/watch?v=8VkGRAWmxp0) (FuseSchool, ~5m, slide 5)
+- [8 Types of Entrepreneurs](https://www.youtube.com/watch?v=YhM4ui7BIJY) (Business School 101, ~7m, slide 6)
+- [What is an entrepreneurial mindset?](https://www.youtube.com/watch?v=-gdH1hZNJ_M) (SETsquared Partnership, ~3m, slide 7)
+- [The OODA Loop Explained](https://www.youtube.com/watch?v=SSraVDJ-z-k) (EPM, ~5m, slide 8)
+
+## Podcast
+Listen — What Is Entrepreneurship? Mindset, Practice, and Life Design: Audio version of this week's subject deep-dive. (audio/week01.mp3)
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/17AnNBeFovM9v6Bc_6W6SfgSzWU5esJ3d/edit
+- Lesson plan doc: https://docs.google.com/document/d/1kCaT0MvrSKoU0Ar55wPQlOySqtGaT-Hw/edit
+- Slide outline doc: https://docs.google.com/document/d/1CCbaQ1x4H73FIe698OoqgaNUTSWEYELo/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

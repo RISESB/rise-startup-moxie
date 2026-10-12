@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** What can you build right now with what you already have — and who do you need beside you to build it?
 
+_When it last ran: Week of October 20, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Explain the effectuation principle and how it differs from traditional planning.
 - Apply the Bird-in-Hand principle to their current business idea.
@@ -17,23 +19,43 @@ Unit 1: Foundations & Identity
 - **Thursday:** Speaker Recap + Thank You Cards + Team Building Workshop
 - **Friday:** Profit or Broke + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** What do you have that most people your age don't?
-- **The Myth of the Big Plan:** Most people think: big plan first
-- **How Experts Actually Think:** Effectuation
-- **Causation vs. Effectuation:** Causation: goal → find resources
-- **The 4 Principles:** · Bird-in-Hand — start with your means
-- **Bird-in-Hand: 3 Questions:** Start with your means
-- **When Means Match the Problem:** Best early momentum =
-- **You Can't Build Alone:** Even solo founders have a team
-- **3 Essential Roles:** Complementary strengths — not clones
-- **Activity: Bird-in-Hand Audit:** Fill all three columns
-- **Close:** Which role are you?
+## Monday slide outline
+1. **Warm-Up:** What do you have that most people your age don't?
+   _Picture: Open hands holding a variety of small tools and symbols_
+2. **The Myth of the Big Plan:** Most people think: big plan first
+   _Picture: Elaborate blueprint crumpled or crossed out_
+3. **How Experts Actually Think:** Effectuation
+   _Picture: Portrait-style silhouette of a seasoned entrepreneur thinking_
+4. **Causation vs. Effectuation:** Causation: goal → find resources
+   _Picture: Two arrows pointing opposite directions, split-screen_
+5. **The 4 Principles:** · Bird-in-Hand — start with your means
+   _Picture: Four simple icons: bird, safety net, quilt, lemonade glass_
+6. **Bird-in-Hand: 3 Questions:** Start with your means
+   _Picture: Small bird resting in an open palm_
+7. **When Means Match the Problem:** Best early momentum =
+   _Picture: Key fitting perfectly into a lock_
+8. **You Can't Build Alone:** Even solo founders have a team
+   _Picture: Rowing crew pulling together in one boat_
+9. **3 Essential Roles:** Complementary strengths — not clones
+   _Picture: Three interlocking gears of different sizes_
+10. **Activity: Bird-in-Hand Audit:** Fill all three columns
+   _Picture: Three-column worksheet on a clipboard_
+11. **Close:** Which role are you?
+   _Picture: Empty org-chart boxes waiting to be filled_
 
-## Videos used this week
-- [A Brief Guide to Effectuation](https://www.youtube.com/watch?v=oC-yWrC0P_E) (UCL Enterprise, ~4m)
-- [Effectuation Principles](https://www.youtube.com/watch?v=9-cMlvcI5sA) (Global School for Entrepreneurship, ~4m)
-- [Hacker Hipster Hustler - Startup Team](https://www.youtube.com/watch?v=qnQxOMBE1oA)
+## Videos for this week
+- [A Brief Guide to Effectuation](https://www.youtube.com/watch?v=oC-yWrC0P_E) (UCL Enterprise, ~4m, slide 3)
+- [Effectuation Principles](https://www.youtube.com/watch?v=9-cMlvcI5sA) (Global School for Entrepreneurship, ~4m, slide 5)
+- [Hacker Hipster Hustler - Startup Team](https://www.youtube.com/watch?v=qnQxOMBE1oA) (~4m, slide 9)
+
+## Podcast
+Listen — Effectuation + Starting with What You Have + Team Building: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1Q72ZPVFbWnaMiVDx-sAyjOf1thw5oGzN/edit
+- Lesson plan doc: https://docs.google.com/document/d/1N2Ui6uQ1vwT15njPPnFWZ47rNMwKbVow/edit
+- Slide outline doc: https://docs.google.com/document/d/1zF4Lc8sh_C3W82vnmWKX1KPoFsz2QFoA/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

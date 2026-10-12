@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** How do you solve problems you have never seen before — and how do you make sure you are solving the right problem?
 
+_When it last ran: Week of October 13, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Explain the 5-stage Design Thinking process.
 - Apply empathy mapping to understand a customer's experience.
@@ -24,26 +26,47 @@ Unit 1: Foundations & Identity
 - Paper for rapid prototyping sketches
 - Timer
 
-## Key ideas (from the slides)
-- **Warm-Up:** What in your daily life is badly designed?
-- **Creativity Is a Skill:** Not a personality trait — a method
-- **What Is Design Thinking?:** Design Thinking
-- **The 5 Stages:** Empathize → Define → Ideate → Prototype → Test
-- **1. Empathize:** Understand the person, not the data
-- **2. Define:** Name the core problem — from the user's view
-- **3. Ideate:** Generate — don't evaluate
-- **4. Prototype:** Build the simplest version
-- **5. Test:** Put it in front of real users
-- **Where Are You Now?:** Look at your May-B-P
-- **Activity: Empathy Map:** Map your most specific customer
-- **Close:** Strongest May-B-Ps come from deepest empathy
+## Monday slide outline
+1. **Warm-Up:** What in your daily life is badly designed?
+   _Picture: Confusing push/pull door or tangled cables_
+2. **Creativity Is a Skill:** Not a personality trait — a method
+   _Picture: Toolbox with lightbulb tools inside_
+3. **What Is Design Thinking?:** Design Thinking
+   _Picture: Team at a whiteboard covered in colorful sticky notes_
+4. **The 5 Stages:** Empathize → Define → Ideate → Prototype → Test
+   _Picture: Horizontal 5-step process arrow, each stage labeled_
+5. **1. Empathize:** Understand the person, not the data
+   _Picture: Two people in close conversation, one listening intently_
+6. **2. Define:** Name the core problem — from the user's view
+   _Picture: Magnifying glass focused on a single highlighted word_
+7. **3. Ideate:** Generate — don't evaluate
+   _Picture: Wall covered in dozens of sticky-note ideas_
+8. **4. Prototype:** Build the simplest version
+   _Picture: Rough cardboard and paper prototype on a desk_
+9. **5. Test:** Put it in front of real users
+   _Picture: User trying a product while a designer observes and takes notes_
+10. **Where Are You Now?:** Look at your May-B-P
+   _Picture: Person pointing at one step on a process roadmap_
+11. **Activity: Empathy Map:** Map your most specific customer
+   _Picture: Blank four-quadrant empathy map template_
+12. **Close:** Strongest May-B-Ps come from deepest empathy
+   _Picture: Sketchbook open to a fresh page with a pencil_
 
-## Videos used this week
-- [What is Design Thinking?](https://www.youtube.com/watch?v=ldYzbV0NDp8) (IDEO U, ~2m)
-- [5 Stages of Design Thinking](https://www.youtube.com/watch?v=7-wWcejJo70)
-- [Brainstorming Rules for Design Thinking](https://www.youtube.com/watch?v=y0o7QZiOghA) (IDEO, ~4m)
-- [Paper Prototyping 101](https://www.youtube.com/watch?v=fw42BYQmuJ4) (Nielsen Norman Group, ~4m)
-- [How to Empathy Map](https://www.youtube.com/watch?v=9HwpR3Njq00) (Nielsen Norman Group, ~6m)
+## Videos for this week
+- [What is Design Thinking?](https://www.youtube.com/watch?v=ldYzbV0NDp8) (IDEO U, ~2m, slide 3)
+- [5 Stages of Design Thinking](https://www.youtube.com/watch?v=7-wWcejJo70) (~5m, slide 4)
+- [Brainstorming Rules for Design Thinking](https://www.youtube.com/watch?v=y0o7QZiOghA) (IDEO, ~4m, slide 7)
+- [Paper Prototyping 101](https://www.youtube.com/watch?v=fw42BYQmuJ4) (Nielsen Norman Group, ~4m, slide 8)
+- [How to Empathy Map](https://www.youtube.com/watch?v=9HwpR3Njq00) (Nielsen Norman Group, ~6m, slide 11)
+
+## Podcast
+Listen — Creativity + Design Thinking in Action: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/13aCKW_JhuDUPyuUFIeUCdWWLlxkmtrUl/edit
+- Lesson plan doc: https://docs.google.com/document/d/1AHTxi0BpuVdthF_UyUQoEWRLNITJ5SNP/edit
+- Slide outline doc: https://docs.google.com/document/d/13rixOtEaSMbmXkF1xYpZLHw7cfkrmTZH/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

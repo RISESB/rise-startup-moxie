@@ -4,6 +4,8 @@ Unit 5: The Showcase (Capstone)
 
 **Guiding question:** How do you package everything you built this year into one clear, polished picture of your business?
 
+_When it last ran: Week of April 27, 2026 · 7:30–9:00 AM · Showcase finale begins · Showcase finale begins. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Finalize their brand look and messaging for public presentation.
 - Build a one-page Business Snapshot that captures the whole business.
@@ -17,21 +19,40 @@ Unit 5: The Showcase (Capstone)
 - **Thursday:** Build the Showcase Deck + Peer Feedback
 - **Friday:** Founder Fight + Polish + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up: The Finish Line:** In 3 weeks you present · What should they walk away thinking?
-- **What "Showcase-Ready" Means:** A stranger gets your business in 2 minutes — and believes it's real
-- **Three Pieces Get You There:** Business Snapshot · Showcase Deck · Confident presentation
-- **The Business Snapshot:** One page · the whole business at a glance
-- **What Goes On It:** Name + one-line · Problem + who has it · Solution + USP · Traction · Your ask
-- **Traction Is Proof:** Real numbers · sales · customers · tests
-- **Curation, Not Creation:** It all already exists — pull it from your portfolio
-- **Activity: Snapshot First Draft:** Draft your one page · Could a stranger get it in 60 seconds?
-- **The Stranger Test:** What's missing? · What's fuzzy?
-- **Close:** Next: finalize the snapshot & polish your brand look
+## Monday slide outline
+1. **Warm-Up: The Finish Line:** In 3 weeks you present · What should they walk away thinking?
+   _Picture: Bright showcase room with a full audience_
+2. **What "Showcase-Ready" Means:** A stranger gets your business in 2 minutes — and believes it's real
+   _Picture: Stopwatch beside a clean one-page business layout_
+3. **Three Pieces Get You There:** Business Snapshot · Showcase Deck · Confident presentation
+   _Picture: Three stacked cards labeled snapshot, deck, speaker_
+4. **The Business Snapshot:** One page · the whole business at a glance
+   _Picture: Mockup of a single polished one-pager_
+5. **What Goes On It:** Name + one-line · Problem + who has it · Solution + USP · Traction · Your ask
+   _Picture: One-pager with five labeled sections highlighted_
+6. **Traction Is Proof:** Real numbers · sales · customers · tests
+   _Picture: Simple bar chart with real-looking sales figures_
+7. **Curation, Not Creation:** It all already exists — pull it from your portfolio
+   _Picture: Hand selecting the best items from a full binder_
+8. **Activity: Snapshot First Draft:** Draft your one page · Could a stranger get it in 60 seconds?
+   _Picture: Student sketching a one-pager at a laptop_
+9. **The Stranger Test:** What's missing? · What's fuzzy?
+   _Picture: Magnifying glass over a draft one-pager_
+10. **Close:** Next: finalize the snapshot & polish your brand look
+   _Picture: Rough draft transforming into a clean branded page_
 
-## Videos used this week
-- [How to Write an Elevator Pitch - 2 min tutorial](https://www.youtube.com/watch?v=p8_mBNyLHVA) (MatShoreInnovation, ~2-4m)
-- [How Do You Showcase Traction in a Pitch Deck?](https://www.youtube.com/watch?v=wU50W-BjBaM) (Minority Business Success Experts, ~2-4m)
+## Videos for this week
+- [How to Write an Elevator Pitch - 2 min tutorial](https://www.youtube.com/watch?v=p8_mBNyLHVA) (MatShoreInnovation, ~2-4m, slide 2)
+- [How Do You Showcase Traction in a Pitch Deck?](https://www.youtube.com/watch?v=wU50W-BjBaM) (Minority Business Success Experts, ~2-4m, slide 6)
+
+## Podcast
+Listen — The End Part 1: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1PjlAhYUAhT9ujxVm9fHpQPkgsCm05XLB/edit
+- Lesson plan doc: https://docs.google.com/document/d/1XyzROSZ1ntQLeI-RL1QobhkJCfZGRywN/edit
+- Slide outline doc: https://docs.google.com/document/d/162GdwgclHSUbauYJ6MJQQCg0IzDbriX5/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

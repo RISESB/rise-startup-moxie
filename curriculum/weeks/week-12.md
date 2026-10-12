@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** What is the simplest version of your idea you can put in front of a real person this week — and what will you learn when you do?
 
+_When it last ran: Week of November 10, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Build or define the simplest testable version of their May-B-P.
 - Put the MVP in front of at least one real early user.
@@ -17,24 +19,44 @@ Unit 2: Customer & Product
 - **Thursday:** Speaker Recap + Thank You Cards + MVP Testing Debrief
 - **Friday:** Profit or Broke + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Where is your May-B-P? · Planning → Building → Tested
-- **Today's Line:** Build something real · The goal is not perfect — the goal is real
-- **What Is an MVP?:** Minimum Viable Product · Simplest version a real person can react to
-- **MVP by Business Type:** Service: one delivery · Product: handmade batch · Digital: mockup/landing page · Content: one piece to a real audience
-- **What an MVP Is NOT:** Not a full website · Not a polished logo · Not a business entity · Not a finished product
-- **A Good Early User Test:** Watch what they do, not what they say
-- **The Three "Rights":** Right user (your persona) · Right context (natural, unexplained) · Right questions (asked after)
-- **Questions to Ask After:** What did you expect that didn't happen? · What confused you? · What would make you come back?
-- **Vibe Coding (Optional):** Build with AI, no coding · Bolt.new · Glide · Carrd · Cursor · For digital products only
-- **Activity: Your MVP + Test Plan:** My MVP is… · My first early user is… · I will test it by… · Worked if… · Change if…
-- **Close:** Testable by Friday? · Tomorrow: Build Day
+## Monday slide outline
+1. **Warm-Up:** Where is your May-B-P? · Planning → Building → Tested
+   _Picture: Three-step progress arrow, hands raised in a classroom._
+2. **Today's Line:** Build something real · The goal is not perfect — the goal is real
+   _Picture: Rough hand-drawn prototype next to a polished product, side by side._
+3. **What Is an MVP?:** Minimum Viable Product · Simplest version a real person can react to
+   _Picture: Classic MVP skateboard-to-car illustration._
+4. **MVP by Business Type:** Service: one delivery · Product: handmade batch · Digital: mockup/landing page · Content: one piece to a real audience
+   _Picture: Four-quadrant grid with an icon per business type._
+5. **What an MVP Is NOT:** Not a full website · Not a polished logo · Not a business entity · Not a finished product
+   _Picture: Crossed-out icons of a logo, website, and legal documents._
+6. **A Good Early User Test:** Watch what they do, not what they say
+   _Picture: Person observing a user trying a product, clipboard in hand._
+7. **The Three "Rights":** Right user (your persona) · Right context (natural, unexplained) · Right questions (asked after)
+   _Picture: Three labeled icons — target user, real-world setting, question bubble._
+8. **Questions to Ask After:** What did you expect that didn't happen? · What confused you? · What would make you come back?
+   _Picture: Three speech bubbles._
+9. **Vibe Coding (Optional):** Build with AI, no coding · Bolt.new · Glide · Carrd · Cursor · For digital products only
+   _Picture: Laptop showing an AI chat building an app screen._
+10. **Activity: Your MVP + Test Plan:** My MVP is… · My first early user is… · I will test it by… · Worked if… · Change if…
+   _Picture: Fill-in worksheet template on a clipboard._
+11. **Close:** Testable by Friday? · Tomorrow: Build Day
+   _Picture: Calendar with Friday circled; a rocket on the launch pad._
 
-## Videos used this week
-- [Minimum Viable Product (MVP) explained](https://www.youtube.com/watch?v=pTrZ_R-eknM) (DMthePM, <1m)
-- [Agile MVP - Skateboard vs. Car](https://www.youtube.com/watch?v=QiNijXAXwqE) (Mark Shead, ~3-4m)
-- [The easy and effective way to run a usability test](https://www.youtube.com/watch?v=jn6nT5JVmoc) (Samuel Fabayo, ~5-7m)
-- [Vibe Coding Explained for Beginners](https://www.youtube.com/watch?v=7HErPVFNO0Q) (Skill Leap AI, >6m)
+## Videos for this week
+- [Minimum Viable Product (MVP) explained](https://www.youtube.com/watch?v=pTrZ_R-eknM) (DMthePM, <1m, slide 2)
+- [Agile MVP - Skateboard vs. Car](https://www.youtube.com/watch?v=QiNijXAXwqE) (Mark Shead, ~3-4m, slide 3)
+- [The easy and effective way to run a usability test](https://www.youtube.com/watch?v=jn6nT5JVmoc) (Samuel Fabayo, ~5-7m, slide 6)
+- [Vibe Coding Explained for Beginners](https://www.youtube.com/watch?v=7HErPVFNO0Q) (Skill Leap AI, >6m, slide 9)
+
+## Podcast
+Listen — MVP Building + Testing with Early Users + Vibe Coding: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1VF-wefT2IU0YdmsRd0p07rmBxuZK-aRd/edit
+- Lesson plan doc: https://docs.google.com/document/d/1MwaNycN4qkEjQ6fY4NCngBSfg4EqsyDF/edit
+- Slide outline doc: https://docs.google.com/document/d/1knPAcsx9I18rOPvCmC8y3kouqQ_xD9_N/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** Can you run a real campaign, in the real world, and produce real results this week?
 
+_When it last ran: Week of February 16, 2026 · 7:30–9:00 AM · Presidents Day Monday — lecture shifts to Tuesday if off · Presidents Day Monday — lecture shifts to Tuesday if off. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Launch a live marketing campaign to their real segment.
 - Track results with real metrics (reach, clicks, leads, sales).
@@ -17,20 +19,41 @@ Unit 3: Marketing & Brand
 - **Thursday:** Speaker Recap + Thank You Cards + Mid-Campaign Adjust
 - **Friday:** Profit or Broke + Results Report + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Your campaign goal — what number would make this week a win?
-- **This Is Execution Week:** No more planning · Get it live · Measure real results.
-- **Pre-Launch Checklist:** All pieces → ONE next step · Lead capture tested · A/B versions ready · Tracking sheet built.
-- **Does Your Form Actually Work?:** Test the link · Test the form · If it breaks, the leads are gone.
-- **Build Your Tracking Sheet:** Date · Piece · Reach · Clicks · Leads · Sales
-- **Go Live:** Publish the first pieces · Post, send, hand out, share · Log the launch.
-- **Set Your A/B Timing:** Version A now · When does Version B go out?
-- **Offline Channels Count Too:** Flyers · Events · Confirm your distribution plan & first drop.
-- **Close:** It's live · Now watch the numbers · Thursday: adjust mid-campaign.
+## This week's AI tool
+Campaign Launch Tracker: Log where your live campaign stands, see where people are dropping off, and get one change to make before you spend more effort. Open curriculum/tools/week24-campaign-launch-tracker.md to run it.
 
-## Videos used this week
-- [Planning and Launching a Campaign - 5 Steps](https://www.youtube.com/watch?v=aIYyiADfVik) (Adam Erhart, 6:35)
-- [Marketing Campaign Tracker (Sheets Template)](https://www.youtube.com/watch?v=AE-PUM64IK4) (Dressed In Joy, 12:01)
+## Monday slide outline
+1. **Warm-Up:** Your campaign goal — what number would make this week a win?
+   _Picture: A scoreboard with a blank target number._
+2. **This Is Execution Week:** No more planning · Get it live · Measure real results.
+   _Picture: A rocket on the launch pad._
+3. **Pre-Launch Checklist:** All pieces → ONE next step · Lead capture tested · A/B versions ready · Tracking sheet built.
+   _Picture: A checklist with green ticks._
+4. **Does Your Form Actually Work?:** Test the link · Test the form · If it breaks, the leads are gone.
+   _Picture: A signup form with a "test" cursor clicking submit._
+5. **Build Your Tracking Sheet:** Date · Piece · Reach · Clicks · Leads · Sales
+   _Picture: Clean spreadsheet with those six column headers._
+6. **Go Live:** Publish the first pieces · Post, send, hand out, share · Log the launch.
+   _Picture: A big glowing "PUBLISH" button being pressed._
+7. **Set Your A/B Timing:** Version A now · When does Version B go out?
+   _Picture: Two posts on a calendar, different days._
+8. **Offline Channels Count Too:** Flyers · Events · Confirm your distribution plan & first drop.
+   _Picture: Stack of flyers ready to hand out at a table._
+9. **Close:** It's live · Now watch the numbers · Thursday: adjust mid-campaign.
+   _Picture: A dashboard with metrics starting to climb._
+
+## Videos for this week
+- [Planning and Launching a Campaign - 5 Steps](https://www.youtube.com/watch?v=aIYyiADfVik) (Adam Erhart, 6:35, slide 2)
+- [Marketing Campaign Tracker (Sheets Template)](https://www.youtube.com/watch?v=AE-PUM64IK4) (Dressed In Joy, 12:01, slide 5)
+
+## Podcast
+Listen — Launch a Real Marketing Campaign: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1RHatSdiDaSYAwxwg6TkQx2A7pkkN26W9/edit
+- Lesson plan doc: https://docs.google.com/document/d/1TqqGHb5VJHqFUxyyu61lq8b2rIU8ZDua/edit
+- Slide outline doc: https://docs.google.com/document/d/1cpqJquDdK29XAkp6Bq_H87ONuJlbjk7F/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

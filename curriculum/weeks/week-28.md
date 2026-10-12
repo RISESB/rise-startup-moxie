@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** How do you read the health of a business at a glance — and how do you plan your money before you spend it?
 
+_When it last ran: Week of March 16, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Name the 3 core financial statements and what each one shows.
 - Read a simple income statement (P&L).
@@ -17,23 +19,42 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Budget Work Day
 - **Friday:** Founder Fight + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** "My business is doing great." What one number would you ask to see?
-- **Title / Big Idea:** Financial Statements + Budgeting. Lemonade stand to Apple — same 3 reports.
-- **The 3 Statements:** Income Statement · Balance Sheet · Cash Flow. Three questions, three reports.
-- **What Each One Answers:** Did I make money? · What am I worth? · Do I have cash right now?
-- **Reading a Simple P&L:** Revenue $1,000 − COGS $350 = Gross $650 − Fixed $400 = Net $250.
-- **Gross vs. Net:** Gross = after making it. Net = after everything. "The bottom line."
-- **What Is a Budget?:** A plan for your money before you spend it. Decide on purpose.
-- **A Simple Monthly Budget:** Expected revenue → planned spending by category → what's left.
-- **Read + React:** Is this business healthy? Biggest cost? What would you fix first?
-- **Close / Preview:** Tomorrow: build your own P&L and a real monthly budget.
+## Monday slide outline
+1. **Warm-Up:** "My business is doing great." What one number would you ask to see?
+   _Picture: Person shrugging beside a giant question mark._
+2. **Title / Big Idea:** Financial Statements + Budgeting. Lemonade stand to Apple — same 3 reports.
+   _Picture: Lemonade stand and a corporate skyscraper side by side._
+3. **The 3 Statements:** Income Statement · Balance Sheet · Cash Flow. Three questions, three reports.
+   _Picture: Three labeled report icons in a row._
+4. **What Each One Answers:** Did I make money? · What am I worth? · Do I have cash right now?
+   _Picture: Three thought bubbles, one question each._
+5. **Reading a Simple P&L:** Revenue $1,000 − COGS $350 = Gross $650 − Fixed $400 = Net $250.
+   _Picture: Clean income statement laid out line by line._
+6. **Gross vs. Net:** Gross = after making it. Net = after everything. "The bottom line."
+   _Picture: Arrow pointing to the last line of a statement._
+7. **What Is a Budget?:** A plan for your money before you spend it. Decide on purpose.
+   _Picture: Envelopes labeled by spending category._
+8. **A Simple Monthly Budget:** Expected revenue → planned spending by category → what's left.
+   _Picture: One-page monthly budget template._
+9. **Read + React:** Is this business healthy? Biggest cost? What would you fix first?
+   _Picture: Sample P&L with a magnifying glass over it._
+10. **Close / Preview:** Tomorrow: build your own P&L and a real monthly budget.
+   _Picture: Blank P&L and budget forms ready to fill._
 
-## Videos used this week
-- [3 Financial Statements Explained](https://www.youtube.com/watch?v=n9AvbA_eOJ4) (Johannes Sommer, ~5-7m)
-- [The 3 Financial Statements (what each answers)](https://www.youtube.com/watch?v=lQtq8L6z4zg) (Mike Lingle, ~8-10m)
-- [Income Statement / P&L Guide for Beginners](https://www.youtube.com/watch?v=jLwtY1RpB1k) (LivePlan, ~5-7m)
-- [What is a Budget?](https://www.youtube.com/watch?v=FiFMvjZj0fY) (Two Teachers, ~4-6m)
+## Videos for this week
+- [3 Financial Statements Explained](https://www.youtube.com/watch?v=n9AvbA_eOJ4) (Johannes Sommer, ~5-7m, slide 2)
+- [The 3 Financial Statements (what each answers)](https://www.youtube.com/watch?v=lQtq8L6z4zg) (Mike Lingle, ~8-10m, slide 4)
+- [Income Statement / P&L Guide for Beginners](https://www.youtube.com/watch?v=jLwtY1RpB1k) (LivePlan, ~5-7m, slide 5)
+- [What is a Budget?](https://www.youtube.com/watch?v=FiFMvjZj0fY) (Two Teachers, ~4-6m, slide 7)
+
+## Podcast
+Listen — Financial Statements + Budgeting: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1csGUE6P9iFCpbdIBKGrhF46uZZwUq_mG/edit
+- Lesson plan doc: https://docs.google.com/document/d/1LN2p00jNQj9u6khXCYhOEKijAjjn_h0t/edit
+- Slide outline doc: https://docs.google.com/document/d/1XhHprcrNj5qZkKhOeuBTL_WLoDuXcaZp/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

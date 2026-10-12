@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** Who exactly is your customer — and how many of them are there?
 
+_When it last ran: Week of October 27, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Build a detailed customer persona with demographics, behaviors, and motivations.
 - Explain the difference between TAM, SAM, and SOM.
@@ -17,22 +19,42 @@ Unit 2: Customer & Product
 - **Thursday:** Speaker Recap + Thank You Cards + Persona + Market Refinement
 - **Friday:** Founder Fight + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Describe your ideal customer in one sentence
-- **Know vs. Understand:** Knowing who ≠ understanding
-- **What's in a Persona?:** The layers
-- **Meet Maria:** Maria, 34 · South Bend · preschool teacher
-- **Why Specific Wins:** Specific tells you
-- **Market Size: 3 Rings:** TAM · SAM · SOM
-- **TAM, SAM, SOM Defined:** TAM — everyone who could buy ("the full pool")
-- **The Numbers in Action:** Meal-prep example
-- **Where Credibility Lives:** Investors want a big TAM
-- **Activity: Build Your Persona:** Fill out a full persona
-- **Close:** A real face for your customer
+## Monday slide outline
+1. **Warm-Up:** Describe your ideal customer in one sentence
+   _Picture: Blurry crowd with one person in sharp focus_
+2. **Know vs. Understand:** Knowing who ≠ understanding
+   _Picture: Silhouette filling in with detail and color_
+3. **What's in a Persona?:** The layers
+   _Picture: Sample persona card with photo and profile fields_
+4. **Meet Maria:** Maria, 34 · South Bend · preschool teacher
+   _Picture: Busy working parent glancing at the clock in a small kitchen_
+5. **Why Specific Wins:** Specific tells you
+   _Picture: Dartboard with a dart in the bullseye_
+6. **Market Size: 3 Rings:** TAM · SAM · SOM
+   _Picture: Three nested circles, largest to smallest_
+7. **TAM, SAM, SOM Defined:** TAM — everyone who could buy ("the full pool")
+   _Picture: Swimming pools of three shrinking sizes side by side_
+8. **The Numbers in Action:** Meal-prep example
+   _Picture: Funnel narrowing from a huge number to a small one_
+9. **Where Credibility Lives:** Investors want a big TAM
+   _Picture: Balance scale weighing "big dream" vs. "realistic proof"_
+10. **Activity: Build Your Persona:** Fill out a full persona
+   _Picture: Blank persona worksheet with pen_
+11. **Close:** A real face for your customer
+   _Picture: Calculator beside a stack of market-research charts_
 
-## Videos used this week
-- [How to Create a Buyer Persona](https://www.youtube.com/watch?v=trB-9Od_HNo) (Vertex Marketing Agency, ~4-5m)
-- [TAM SAM SOM Explained: How to Calculate Your Market Size](https://www.youtube.com/watch?v=yOh3Boo4aJo) (Inside The Product, ~4-5m)
+## Videos for this week
+- [How to Create a Buyer Persona](https://www.youtube.com/watch?v=trB-9Od_HNo) (Vertex Marketing Agency, ~4-5m, slide 3)
+- [TAM SAM SOM Explained: How to Calculate Your Market Size](https://www.youtube.com/watch?v=yOh3Boo4aJo) (Inside The Product, ~4-5m, slide 6)
+
+## Podcast
+Listen — Creating Personas + Calculating Total Addressable Market (TAM): Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1he1j4gOEgrefeFbHGnwLkFwL-DD4hKHr/edit
+- Lesson plan doc: https://docs.google.com/document/d/19d6sr3pt1tdN-gAaXmVxrs7Uw1w59QUr/edit
+- Slide outline doc: https://docs.google.com/document/d/1W4lc6uCJNNHZrM8J7dPUTC6K4zZgYLRW/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

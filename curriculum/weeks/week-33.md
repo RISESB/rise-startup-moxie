@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** How far have you actually come this year — and how do you tell that story?
 
+_When it last ran: Week of April 20, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Review their full-year journey from Week 1 to now.
 - Measure real growth — in their business and in themselves.
@@ -17,21 +19,41 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Portfolio Cleanup
 - **Friday:** Profit or Broke + 1-on-1s + Showcase Preview
 
-## Key ideas (from the slides)
-- **Warm-Up: Week 1 vs. Now:** What you thought entrepreneurship was → what you know now
-- **Look How Far You've Come:** One year · from idea to real business
-- **Unit 1 (Weeks 1–6):** Mindset · Your why · Observing problems · First pitch
-- **Unit 2 (Weeks 7–17):** Design thinking · Customer discovery · MVP · Sales · Final pitch
-- **Unit 3 (Weeks 18–30):** Marketing · Campaigns · The finances
-- **Unit 4 (Weeks 31–33):** Analytics · Operations · and now — the recap
-- **Two Kinds of Growth:** Business growth · Personal growth
-- **Business Growth:** What's real now that didn't exist in September? · Customers · Sales · Product · Skills
-- **Personal Growth:** How you think, speak, and show up differently
-- **It's Not About Size:** The point is who you became by building it
-- **Close:** Next: gather the proof — artifacts & numbers that tell your story
+## Monday slide outline
+1. **Warm-Up: Week 1 vs. Now:** What you thought entrepreneurship was → what you know now
+   _Picture: Before/after split of a nervous vs. confident young founder_
+2. **Look How Far You've Come:** One year · from idea to real business
+   _Picture: Winding path from a seed to a storefront_
+3. **Unit 1 (Weeks 1–6):** Mindset · Your why · Observing problems · First pitch
+   _Picture: Lightbulb-and-notebook idea sketch_
+4. **Unit 2 (Weeks 7–17):** Design thinking · Customer discovery · MVP · Sales · Final pitch
+   _Picture: Prototype sketch beside a customer-interview scene_
+5. **Unit 3 (Weeks 18–30):** Marketing · Campaigns · The finances
+   _Picture: Social-campaign mockup next to a simple money chart_
+6. **Unit 4 (Weeks 31–33):** Analytics · Operations · and now — the recap
+   _Picture: Dashboard with an upward trend line_
+7. **Two Kinds of Growth:** Business growth · Personal growth
+   _Picture: Two side-by-side sprouting plants, labeled_
+8. **Business Growth:** What's real now that didn't exist in September? · Customers · Sales · Product · Skills
+   _Picture: September-vs-now comparison card_
+9. **Personal Growth:** How you think, speak, and show up differently
+   _Picture: Mirror reflecting a more confident version of a student_
+10. **It's Not About Size:** The point is who you became by building it
+   _Picture: Small shop with a proud owner out front_
+11. **Close:** Next: gather the proof — artifacts & numbers that tell your story
+   _Picture: Folder overflowing with photos, charts, and quotes_
 
-## Videos used this week
-- [](https://www.youtube.com/results?search_query=how+far+youve+come+motivation+growth+journey)
+## Videos for this week
+- [](https://www.youtube.com/results?search_query=how+far+youve+come+motivation+growth+journey) (slide 2)
+
+## Podcast
+Listen — End of Year Recap: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1xIZG9hhmohQlV-V0anxXEWn3gQ3PjG-G/edit
+- Lesson plan doc: https://docs.google.com/document/d/1GRn4OhIrFBuvS1V29xctoxo-SwPmJkYe/edit
+- Slide outline doc: https://docs.google.com/document/d/1p_aHTNFUSHg5qeaQyXdRZWBtyRzpfAEG/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

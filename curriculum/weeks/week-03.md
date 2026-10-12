@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** What problems are hiding in plain sight — and how do you train yourself to see them?
 
+_When it last ran: Week of September 8, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Explain the Walk, Talk, Show Up discovery method.
 - Use the 5 Whys to dig beneath surface-level problems.
@@ -24,21 +26,40 @@ Unit 1: Foundations & Identity
 - Speaker Tour Prep Worksheets
 - Thank you cards and pens
 
-## Key ideas (from the slides)
-- **Title:** Observing Your World · Walk · Talk · Show Up
-- **Warm-Up:** What did you see this week that's broken, slow or annoying?
-- **Start With the Problem:** Start with the problem — not the solution
-- **Walk:** Walk → Friction · Gaps · Patterns
-- **Talk:** Talk → Understand their experience, don't pitch
-- **Show Up:** Show Up → Go where customers are · Give first
-- **The 5 Whys:** Ask "Why?" five times → find the root cause
-- **5 Whys Together:** One class observation → run all five Whys
-- **Discovery Tracker:** Observation · Where/When · Who · 5 Whys · Opportunity
-- **Close:** Be a detective this week → 3+ entries by Friday
+## Monday slide outline
+1. **Title:** Observing Your World · Walk · Talk · Show Up
+   _Picture: A person on a busy street looking closely at everyday surroundings._
+2. **Warm-Up:** What did you see this week that's broken, slow or annoying?
+   _Picture: A long, frustrated line of people waiting._
+3. **Start With the Problem:** Start with the problem — not the solution
+   _Picture: A crossed-out lightbulb next to a magnifying glass over a question mark._
+4. **Walk:** Walk → Friction · Gaps · Patterns
+   _Picture: Feet walking through a neighborhood, eyes-open perspective._
+5. **Talk:** Talk → Understand their experience, don't pitch
+   _Picture: Casual chat between two people at a counter._
+6. **Show Up:** Show Up → Go where customers are · Give first
+   _Picture: Someone volunteering at a community event._
+7. **The 5 Whys:** Ask "Why?" five times → find the root cause
+   _Picture: Descending staircase of five "Why?" bubbles reaching a root._
+8. **5 Whys Together:** One class observation → run all five Whys
+   _Picture: Whiteboard with five linked "Why" arrows._
+9. **Discovery Tracker:** Observation · Where/When · Who · 5 Whys · Opportunity
+   _Picture: Field notebook page with column headers._
+10. **Close:** Be a detective this week → 3+ entries by Friday
+   _Picture: Detective-style magnifying glass over a city map._
 
-## Videos used this week
-- [How to do customer interviews (Rob Fitzpatrick)](https://www.youtube.com/watch?v=OBac5a8rDbY) (Bootstrapped Stories, ~15m)
-- [The 5 Whys Explained - Root Cause Analysis](https://www.youtube.com/watch?v=t7FcK8jV2yA) (EPM, ~5m)
+## Videos for this week
+- [How to do customer interviews (Rob Fitzpatrick)](https://www.youtube.com/watch?v=OBac5a8rDbY) (Bootstrapped Stories, ~15m, slide 5)
+- [The 5 Whys Explained - Root Cause Analysis](https://www.youtube.com/watch?v=t7FcK8jV2yA) (EPM, ~5m, slide 7)
+
+## Podcast
+Listen — Observing Your World: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1WFYQ2YlZPxHcpQGfU4QaOJCuoxg5erhb/edit
+- Lesson plan doc: https://docs.google.com/document/d/1Lu0QlrY1Uaha8PKtgtnQuYTzkYAxgWRx/edit
+- Slide outline doc: https://docs.google.com/document/d/1npo0NTX-kws9K7aTy5ibo9sDjy4YhV9S/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

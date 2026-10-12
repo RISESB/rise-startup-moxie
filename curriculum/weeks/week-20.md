@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** What makes you different, and how do you tell a story that makes people care?
 
+_When it last ran: Week of January 19, 2026 · 7:30–9:00 AM · MLK Day Monday — lecture shifts to Tuesday if off · MLK Day Monday — lecture shifts to Tuesday if off. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Define a clear Unique Selling Proposition (USP).
 - Use a simple story framework to make their brand memorable.
@@ -17,23 +19,42 @@ Unit 3: Marketing & Brand
 - **Thursday:** Speaker Recap + Thank You Cards + Brand Workshop
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Title:** USP + Storytelling + Brand · What makes you different — and memorable?
-- **Warm-Up:** Name a brand you love · One word for why
-- **Unique Selling Proposition:** One clear reason to choose you over every alternative · Not a list — one sharp thing
-- **The USP Format:** "The only [category] that [unique benefit] for [segment]" · True, specific, hard to copy
-- **The Customer Is the Hero:** People remember stories, not features · You are Yoda — the customer is the hero
-- **The Story Framework:** Struggle → find you (guide) → your solution → transformation
-- **A Brand Is a Feeling:** A brand is not a logo · It's the feeling people get when they think of you · Voice · Look · Promise
-- **Consistency Is the Game:** Show up the same way every time · Consistent small brand > scattered big brand
-- **Your Turn:** Write your USP ("The only…") · Write a 4-sentence brand story · Customer as hero
-- **Close:** Could a competitor say your USP word for word? Sharpen it · Next: build your brand
+## Monday slide outline
+1. **Title:** USP + Storytelling + Brand · What makes you different — and memorable?
+   _Picture: Row of plain boxes with one bright, distinct box standing out._
+2. **Warm-Up:** Name a brand you love · One word for why
+   _Picture: Collage of well-known brand logos._
+3. **Unique Selling Proposition:** One clear reason to choose you over every alternative · Not a list — one sharp thing
+   _Picture: A single spotlight on one product among many._
+4. **The USP Format:** "The only [category] that [unique benefit] for [segment]" · True, specific, hard to copy
+   _Picture: Fill-in-the-blank USP template card._
+5. **The Customer Is the Hero:** People remember stories, not features · You are Yoda — the customer is the hero
+   _Picture: A guide figure pointing a hero figure toward a goal._
+6. **The Story Framework:** Struggle → find you (guide) → your solution → transformation
+   _Picture: Four-step arc from a problem to a happy outcome._
+7. **A Brand Is a Feeling:** A brand is not a logo · It's the feeling people get when they think of you · Voice · Look · Promise
+   _Picture: A logo shape with radiating "feeling" waves around it._
+8. **Consistency Is the Game:** Show up the same way every time · Consistent small brand > scattered big brand
+   _Picture: Repeating identical brand tiles in a neat grid._
+9. **Your Turn:** Write your USP ("The only…") · Write a 4-sentence brand story · Customer as hero
+   _Picture: Worksheet with a USP line and four story lines._
+10. **Close:** Could a competitor say your USP word for word? Sharpen it · Next: build your brand
+   _Picture: A pencil sharpening a point to fine focus._
 
-## Videos used this week
-- [How Apple and Nike Have Branded Your Brain](https://www.youtube.com/watch?v=4eIDBV4Mpek) (Big Think, ~6m)
-- [What is USP? Explained For Beginners](https://www.youtube.com/watch?v=rfYdR4iwqAE)
-- [Always Be the Guide, Never the Hero (Donald Miller)](https://www.youtube.com/watch?v=j7qkW_KObfc) (StoryBrand, ?)
-- [Brand Is Not a Logo](https://www.youtube.com/shorts/yvHwC6G3Xt0)
+## Videos for this week
+- [How Apple and Nike Have Branded Your Brain](https://www.youtube.com/watch?v=4eIDBV4Mpek) (Big Think, ~6m, slide 1)
+- [What is USP? Explained For Beginners](https://www.youtube.com/watch?v=rfYdR4iwqAE) (?, slide 3)
+- [Always Be the Guide, Never the Hero (Donald Miller)](https://www.youtube.com/watch?v=j7qkW_KObfc) (StoryBrand, ?, slide 5)
+- [Brand Is Not a Logo](https://www.youtube.com/shorts/yvHwC6G3Xt0) (<1m, slide 7)
+
+## Podcast
+Listen — Unique Selling Proposition + Storytelling + Brand Strategy: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1gfN5hVqAFLabJFuYHJvDyx3HWZJLhRvZ/edit
+- Lesson plan doc: https://docs.google.com/document/d/1jJkX-vhZQ5WxDvz0YOEkoSx9qNSJYWV1/edit
+- Slide outline doc: https://docs.google.com/document/d/1vCV7PBWa5wLTo9HCoPfwUEo06V1cDlf4/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

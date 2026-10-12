@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** Not everyone is your customer — so who exactly are you talking to, and what do you say to them?
 
+_When it last ran: Week of January 12, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Break a broad market into distinct customer segments.
 - Choose a primary segment to focus marketing on first.
@@ -17,24 +19,44 @@ Unit 3: Marketing & Brand
 - **Thursday:** Speaker Recap + Thank You Cards + Messaging Work Day
 - **Friday:** Founder Fight + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Title:** Customer Segmentation + Messaging · Who exactly are you talking to?
-- **Warm-Up:** Who is your customer? · Answer in one sentence
-- **Talk to Everyone, Reach No One:** Talk to everyone → sound like nothing · Talk to one person → they lean in
-- **What Is Segmentation?:** Break a big market into smaller groups that share something · Serve one group well
-- **Ways to Segment:** Demographic · Behavioral · Needs-based · Psychographic
-- **Same Product, Different Messages:** Meal kit → busy parents · college students · seniors · One product, three messages
-- **Choose Your Primary Segment:** Pick ONE first · Highest pain · Easiest to reach · Ability to pay
-- **Narrow First, Then Expand:** Amazon started with books · Facebook started with Harvard · Narrow isn't small
-- **Message-Market Fit:** Call out the segment → name the pain → show the outcome → one clear next step
-- **Your Turn:** List every possible segment · Score on pain / reach / pay · Pick your primary
-- **Close:** Tomorrow: write messaging built for that one segment
+## Monday slide outline
+1. **Title:** Customer Segmentation + Messaging · Who exactly are you talking to?
+   _Picture: A diverse crowd with one person highlighted in a spotlight._
+2. **Warm-Up:** Who is your customer? · Answer in one sentence
+   _Picture: Single empty speech bubble._
+3. **Talk to Everyone, Reach No One:** Talk to everyone → sound like nothing · Talk to one person → they lean in
+   _Picture: Megaphone aimed at an empty field vs. one aimed at one listening person._
+4. **What Is Segmentation?:** Break a big market into smaller groups that share something · Serve one group well
+   _Picture: A large circle splitting into several smaller labeled circles._
+5. **Ways to Segment:** Demographic · Behavioral · Needs-based · Psychographic
+   _Picture: Four-quadrant grid, one label per box._
+6. **Same Product, Different Messages:** Meal kit → busy parents · college students · seniors · One product, three messages
+   _Picture: One meal-kit box with three arrows to three different customer types._
+7. **Choose Your Primary Segment:** Pick ONE first · Highest pain · Easiest to reach · Ability to pay
+   _Picture: A target with a single dart in the bullseye._
+8. **Narrow First, Then Expand:** Amazon started with books · Facebook started with Harvard · Narrow isn't small
+   _Picture: A small seed growing into a large tree._
+9. **Message-Market Fit:** Call out the segment → name the pain → show the outcome → one clear next step
+   _Picture: Ad mockup: "Busy parents in South Bend…" with an "Order free week" button._
+10. **Your Turn:** List every possible segment · Score on pain / reach / pay · Pick your primary
+   _Picture: Simple scoring table with columns pain, reach, pay._
+11. **Close:** Tomorrow: write messaging built for that one segment
+   _Picture: Arrow pointing from a segment icon to a message bubble._
 
-## Videos used this week
-- [Marketing Segmentation Explained in 3 minutes](https://www.youtube.com/watch?v=dPysDVX0pY0)
-- [What is Market Segmentation?](https://www.youtube.com/watch?v=e9eRJAqya34)
-- [Jeff Bezos 1997 Interview (started with books)](https://www.youtube.com/watch?v=rWRbTnE1PEM) ((reupload), ~5m)
-- [How To Create A Powerful Marketing Message](https://www.youtube.com/watch?v=polc_4RviEU)
+## Videos for this week
+- [Marketing Segmentation Explained in 3 minutes](https://www.youtube.com/watch?v=dPysDVX0pY0) (~3m, slide 1)
+- [What is Market Segmentation?](https://www.youtube.com/watch?v=e9eRJAqya34) (?, slide 4)
+- [Jeff Bezos 1997 Interview (started with books)](https://www.youtube.com/watch?v=rWRbTnE1PEM) ((reupload), ~5m, slide 8)
+- [How To Create A Powerful Marketing Message](https://www.youtube.com/watch?v=polc_4RviEU) (?, slide 9)
+
+## Podcast
+Listen — Customer Segmentation + Messaging: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1QuU7ysne24jcKDJAbnjJGwjoKNCUr1GX/edit
+- Lesson plan doc: https://docs.google.com/document/d/18gsurvhAyYwvcYUCSsaeIuZlc7telZYm/edit
+- Slide outline doc: https://docs.google.com/document/d/1QnJvWPKryhagYVpRSteMMN04J4w_HnXu/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

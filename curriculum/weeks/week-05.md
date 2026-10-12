@@ -4,6 +4,8 @@ Unit 1: Foundations & Identity
 
 **Guiding question:** How do entrepreneurs use AI as a thinking partner and outreach tool — not a shortcut?
 
+_When it last ran: Week of September 22, 2025 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Explain the difference between using AI as a crutch vs. a tool.
 - Use Claude and ChatGPT to research, draft outreach, and stress-test ideas.
@@ -23,20 +25,38 @@ Unit 1: Foundations & Identity
 - Speaker Tour Prep Worksheets
 - Thank you cards and pens
 
-## Key ideas (from the slides)
-- **Title:** AI as a Business Tool — not a shortcut
-- **Warm-Up:** Have you used ChatGPT or Claude? For what?
-- **What AI Is & Is Not:** Good at: drafting, research, brainstorming, stress-testing · Not: real-time facts, your market, deciding for you
-- **The 3 Rules:** 1) Bionic arm, not a robot · 2) Focus on problems · 3) Stay safe
-- **Claude vs. ChatGPT:** ChatGPT — brainstorming, structure · Claude — nuanced writing, long docs
-- **Prompting Well:** Context + Task + Format → better output
-- **Live AI Practice:** Explain it back · Find 3 weaknesses · Suggest 3 first customers
-- **What Did It Miss?:** What did AI get right? What did it get wrong?
-- **Close:** Tomorrow → research your market & draft real outreach
+## Monday slide outline
+1. **Title:** AI as a Business Tool — not a shortcut
+   _Picture: A human hand and a robotic arm building something together._
+2. **Warm-Up:** Have you used ChatGPT or Claude? For what?
+   _Picture: Raised hands in a classroom._
+3. **What AI Is & Is Not:** Good at: drafting, research, brainstorming, stress-testing · Not: real-time facts, your market, deciding for you
+   _Picture: Split panel — green check list vs. red X list._
+4. **The 3 Rules:** 1) Bionic arm, not a robot · 2) Focus on problems · 3) Stay safe
+   _Picture: Three simple numbered rule icons._
+5. **Claude vs. ChatGPT:** ChatGPT — brainstorming, structure · Claude — nuanced writing, long docs
+   _Picture: Two side-by-side tool logos/panels compared._
+6. **Prompting Well:** Context + Task + Format → better output
+   _Picture: Before/after prompt comparison on a screen._
+7. **Live AI Practice:** Explain it back · Find 3 weaknesses · Suggest 3 first customers
+   _Picture: Student at a laptop with a chat window open._
+8. **What Did It Miss?:** What did AI get right? What did it get wrong?
+   _Picture: Person reviewing text on screen with a critical eye._
+9. **Close:** Tomorrow → research your market & draft real outreach
+   _Picture: Outbox arrow launching a message._
 
-## Videos used this week
-- [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) (3Blue1Brown, ~7.5m)
-- [The Perfect ChatGPT Prompt Formula](https://www.youtube.com/watch?v=jC4v5AS4RIM) (Jeff Su, ~8m)
+## Videos for this week
+- [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) (3Blue1Brown, ~7.5m, slide 3)
+- [The Perfect ChatGPT Prompt Formula](https://www.youtube.com/watch?v=jC4v5AS4RIM) (Jeff Su, ~8m, slide 6)
+
+## Podcast
+Listen — AI Basics and Outreach: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1m7tjA4LJTp_2B2pWnEeqBDjHsp_7dp5c/edit
+- Lesson plan doc: https://docs.google.com/document/d/1ncp1qbyvyqS6iJhNK0mpHzDLekW6Jpbl/edit
+- Slide outline doc: https://docs.google.com/document/d/1cUV5prgqC-ExkiIlwAZD1RZl0u3Ic0Yy/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

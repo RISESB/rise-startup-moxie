@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** When does the money actually arrive — and how many sales until you stop losing money?
 
+_When it last ran: Week of March 9, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Explain why profit on paper is not the same as cash in hand.
 - Build a simple monthly cash flow view.
@@ -17,24 +19,44 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Numbers Work Day
 - **Friday:** Profit or Broke + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Money coming … but not here yet. How did that feel?
-- **Title / Big Idea:** Cash Flow + Break-Even. More businesses die from no cash than from no profit.
-- **Cash Flow vs. Profit:** Profit = the final score. Cash flow = money in your pocket right now.
-- **The $1,000 Order Trap:** $1,000 order → $400 out now → paid in 30 days. 30 days in the hole.
-- **Money In vs. Money Out:** Positive · Negative · Runway. The gap is where businesses get in trouble.
-- **Break-Even: The Magic Number:** How many sales just to cover costs? Below = lose. Above = earn.
-- **The Formula:** Break-even units = Fixed costs ÷ Contribution margin per unit.
-- **The Candle Example:** $260 ÷ $13 = 20 candles. Candle 21 = first real profit.
-- **Your Turn: Break-Even Calc:** Find your break-even — units and dollars. Use your Week 26 margin + fixed costs.
-- **Discussion:** Your break-even number vs. what you sell now — above or below?
-- **Close / Preview:** Tomorrow: build your cash flow view and see the timing of your money.
+## Monday slide outline
+1. **Warm-Up:** Money coming … but not here yet. How did that feel?
+   _Picture: Empty wallet next to an "IOU" note._
+2. **Title / Big Idea:** Cash Flow + Break-Even. More businesses die from no cash than from no profit.
+   _Picture: Thriving storefront with a "Closed" sign in the window._
+3. **Cash Flow vs. Profit:** Profit = the final score. Cash flow = money in your pocket right now.
+   _Picture: Split screen — scoreboard vs. cash in hand._
+4. **The $1,000 Order Trap:** $1,000 order → $400 out now → paid in 30 days. 30 days in the hole.
+   _Picture: Timeline showing cash out today, cash in a month later._
+5. **Money In vs. Money Out:** Positive · Negative · Runway. The gap is where businesses get in trouble.
+   _Picture: Two arrows — money flowing in, money flowing out, over a calendar._
+6. **Break-Even: The Magic Number:** How many sales just to cover costs? Below = lose. Above = earn.
+   _Picture: Simple break-even graph with lines crossing._
+7. **The Formula:** Break-even units = Fixed costs ÷ Contribution margin per unit.
+   _Picture: Clean formula card on a chalkboard._
+8. **The Candle Example:** $260 ÷ $13 = 20 candles. Candle 21 = first real profit.
+   _Picture: Row of 20 candles, the 21st glowing gold._
+9. **Your Turn: Break-Even Calc:** Find your break-even — units and dollars. Use your Week 26 margin + fixed costs.
+   _Picture: Worksheet with calculator and pencil._
+10. **Discussion:** Your break-even number vs. what you sell now — above or below?
+   _Picture: Two students comparing notes._
+11. **Close / Preview:** Tomorrow: build your cash flow view and see the timing of your money.
+   _Picture: 3-month cash flow calendar preview._
 
-## Videos used this week
-- [Why Profitable Businesses Still Run Out of Cash](https://www.youtube.com/watch?v=ByF1zaxJeyo) (Steve Coughran, ~6-8m)
-- [Cash Flow vs. Profit](https://www.youtube.com/watch?v=lkEtgnhsV04) (HBS Online, ~2-3m)
-- [Business Runway Explained](https://www.youtube.com/watch?v=2qmSrKkU7Ko) (CodeLucky, ~4-6m)
-- [Break Even Point Explained for Beginners](https://www.youtube.com/watch?v=-pMpzSJKWQI) (BizMoney Explained, ~5-7m)
+## Videos for this week
+- [Why Profitable Businesses Still Run Out of Cash](https://www.youtube.com/watch?v=ByF1zaxJeyo) (Steve Coughran, ~6-8m, slide 2)
+- [Cash Flow vs. Profit](https://www.youtube.com/watch?v=lkEtgnhsV04) (HBS Online, ~2-3m, slide 3)
+- [Business Runway Explained](https://www.youtube.com/watch?v=2qmSrKkU7Ko) (CodeLucky, ~4-6m, slide 5)
+- [Break Even Point Explained for Beginners](https://www.youtube.com/watch?v=-pMpzSJKWQI) (BizMoney Explained, ~5-7m, slide 6)
+
+## Podcast
+Listen — Cash Flow + Break-Even Analysis: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1bdPPQVwrruuUkgBOQF_spXayKOxyWOzK/edit
+- Lesson plan doc: https://docs.google.com/document/d/1EUl6OCMxiNckW0mypOKeBDiObZvq2JNf/edit
+- Slide outline doc: https://docs.google.com/document/d/102ykhXE8y5PXkX0Z9UwmMWvHReKqG_ne/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

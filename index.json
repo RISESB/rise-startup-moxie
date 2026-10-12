@@ -216,6 +216,7 @@
    "title": "Semester 1 Review: Where You Are and Where You Are Going",
    "question": "What have you actually built so far — and what does your business need most in the next 18 weeks?",
    "path": "curriculum/weeks/week-18.md",
+   "tool": "curriculum/tools/week18-progress-audit.md",
    "article": "curriculum/articles/week-18.md"
   },
   {
@@ -256,6 +257,7 @@
    "title": "AI Campaigns + A/B Testing",
    "question": "How do you use AI to create a full marketing campaign fast — and how do you test which version actually works?",
    "path": "curriculum/weeks/week-23.md",
+   "tool": "curriculum/tools/week23-ai-campaign-ab-lab.md",
    "article": "curriculum/articles/week-23.md"
   },
   {
@@ -264,6 +266,7 @@
    "title": "Launch a Real Marketing Campaign",
    "question": "Can you run a real campaign, in the real world, and produce real results this week?",
    "path": "curriculum/weeks/week-24.md",
+   "tool": "curriculum/tools/week24-campaign-launch-tracker.md",
    "article": "curriculum/articles/week-24.md"
   },
   {
@@ -272,6 +275,7 @@
    "title": "Open House Prep",
    "question": "How do you present your business to the community so they understand it, remember it, and want to support it?",
    "path": "curriculum/weeks/week-25.md",
+   "tool": "curriculum/tools/week25-booth-onepager-kit.md",
    "article": "curriculum/articles/week-25.md"
   },
   {
@@ -320,6 +324,7 @@
    "title": "Business Analytics + Data-Driven Decisions",
    "question": "What are the few numbers that actually tell you how your business is doing — and how do you use them to decide?",
    "path": "curriculum/weeks/week-31.md",
+   "tool": "curriculum/tools/week31-kpi-dashboard.md",
    "article": "curriculum/articles/week-31.md"
   },
   {
@@ -375,6 +380,39 @@
    "description": "The teaching approach behind every week."
   }
  ],
+ "tools": [
+  {
+   "week": 18,
+   "name": "Progress Audit + Goal Setter",
+   "description": "An honest read on where your business actually stands after one semester - and three goals for the next one you'll actually hit.",
+   "path": "curriculum/tools/week18-progress-audit.md"
+  },
+  {
+   "week": 23,
+   "name": "AI Campaign Generator + A/B Lab",
+   "description": "Leave with a campaign you could run this week, two A/B versions to test one thing, and a plain-English way to read what the numbers tell you.",
+   "path": "curriculum/tools/week23-ai-campaign-ab-lab.md"
+  },
+  {
+   "week": 24,
+   "name": "Campaign Launch Tracker",
+   "description": "Log where your live campaign stands, see where people are dropping off, and get one change to make before you spend more effort.",
+   "path": "curriculum/tools/week24-campaign-launch-tracker.md"
+  },
+  {
+   "week": 25,
+   "name": "Booth + One-Pager Kit",
+   "description": "Everything you need to work a table at the open house: one-pager copy, a booth setup checklist, and a 30-second and 2-minute version of your pitch.",
+   "path": "curriculum/tools/week25-booth-onepager-kit.md"
+  },
+  {
+   "week": 31,
+   "name": "KPI Dashboard Builder",
+   "description": "The 3–5 numbers that actually tell you how your business is doing - what each one means, what \"good\" looks like, and one decision to make from them.",
+   "path": "curriculum/tools/week31-kpi-dashboard.md"
+  }
+ ],
+ "voice": "You are a coach inside Startup Moxie, a high-school entrepreneurship program where teenagers build real businesses.\nSpeak warm, direct, and practical — like someone who has actually done the work helping a student move. Never corporate.\nStay inside the Moxie method and use its language where it fits: May-B-P (the smallest testable version), the Mom Test, OODA loops, Walk-Talk-Show-Up discovery, 5 Whys, Problem-Solution-Ask pitches, effectuation / Bird-in-Hand, TAM/SAM/SOM.\nRules: the student does the thinking — you sharpen it. Be concrete over abstract. Prefer the smallest real-world next step. Never invent facts about their business; if something's missing, say what you'd need. Keep it tight — a teenager reads this at 7:30am.\nAvoid: leverage, unlock, disrupt, synergy, transformational, 'I hope this helps'.",
  "skills": [
   {
    "name": "build-a-skill",

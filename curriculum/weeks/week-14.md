@@ -4,6 +4,8 @@ Unit 2: Customer & Product
 
 **Guiding question:** What does the path from stranger to paying customer actually look like for your business?
 
+_When it last ran: Week of November 24, 2025 · 7:30–9:00 AM · Half Week — Adapt as needed · Half Week — Adapt as needed. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Map a simple 5-stage sales funnel for their business.
 - Identify door openers in their target market.
@@ -17,22 +19,41 @@ Unit 2: Customer & Product
 - **Thursday:** Speaker Recap + Thank You Cards + Sales Work Day
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** "Sales" — one word. Go.
-- **Reframe Sales:** Selling isn't convincing · It's helping people find the solution they're already looking for
-- **The Sales Funnel:** Wide at top, narrow at bottom · Strangers → customers
-- **The 5 Stages:** 1 Awareness · 2 Interest · 3 Consideration · 4 Decision · 5 Loyalty
-- **The Common Gap:** Everyone works Stage 1 · Nothing set up for Stages 3 & 4 · Interested people fall out
-- **Lead, Prospect, Customer:** Lead: fits + has problem · Prospect: showed interest · Customer: bought · Track conversion at each step
-- **Door Openers:** People others trust · One relationship → 10 conversations
-- **Door Opener Examples:** Parents → PTA president · Small biz → chamber director · Athletes → head coach
-- **Activity: Draw Your Funnel:** For each stage: What happens? · What does the customer do? · What do you do?
-- **Close:** Mind the gap: Stage 3 → 4 · Tomorrow: build a 3-message outreach sequence
+## Monday slide outline
+1. **Warm-Up:** "Sales" — one word. Go.
+   _Picture: Word cloud with "pushy, scary, necessary, fake."_
+2. **Reframe Sales:** Selling isn't convincing · It's helping people find the solution they're already looking for
+   _Picture: One person guiding another toward a signpost._
+3. **The Sales Funnel:** Wide at top, narrow at bottom · Strangers → customers
+   _Picture: Clean funnel graphic, many figures entering the top._
+4. **The 5 Stages:** 1 Awareness · 2 Interest · 3 Consideration · 4 Decision · 5 Loyalty
+   _Picture: Funnel with the five stages labeled top to bottom._
+5. **The Common Gap:** Everyone works Stage 1 · Nothing set up for Stages 3 & 4 · Interested people fall out
+   _Picture: Funnel with a leak between the middle stages._
+6. **Lead, Prospect, Customer:** Lead: fits + has problem · Prospect: showed interest · Customer: bought · Track conversion at each step
+   _Picture: Three figures progressing along an arrow._
+7. **Door Openers:** People others trust · One relationship → 10 conversations
+   _Picture: One central figure connected to a wide network of others._
+8. **Door Opener Examples:** Parents → PTA president · Small biz → chamber director · Athletes → head coach
+   _Picture: Three market icons paired with a "connector" person._
+9. **Activity: Draw Your Funnel:** For each stage: What happens? · What does the customer do? · What do you do?
+   _Picture: Blank funnel worksheet with fill-in rows per stage._
+10. **Close:** Mind the gap: Stage 3 → 4 · Tomorrow: build a 3-message outreach sequence
+   _Picture: Three chat bubbles in a row._
 
-## Videos used this week
-- [The Sales Mindset That Makes People Buy](https://www.youtube.com/watch?v=35cUgFYaRNM) (Tech Sales With Higher Levels, ~6-10m)
-- [What Is A Sales Funnel: For Beginners](https://www.youtube.com/watch?v=s91NkddhLKo) (Nick Newsome, ~8-10m)
-- [The Tipping Point Summary (Connectors)](https://www.youtube.com/watch?v=cgCQv_YLsuk) (Four Minute Books, ~5-6m)
+## Videos for this week
+- [The Sales Mindset That Makes People Buy](https://www.youtube.com/watch?v=35cUgFYaRNM) (Tech Sales With Higher Levels, ~6-10m, slide 2)
+- [What Is A Sales Funnel: For Beginners](https://www.youtube.com/watch?v=s91NkddhLKo) (Nick Newsome, ~8-10m, slide 3)
+- [The Tipping Point Summary (Connectors)](https://www.youtube.com/watch?v=cgCQv_YLsuk) (Four Minute Books, ~5-6m, slide 7)
+
+## Podcast
+Listen — Sales Strategy: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1yyht7vzzou9wzmU8i_KvS5SxFSsh7U0W/edit
+- Lesson plan doc: https://docs.google.com/document/d/1yVcU-nXmTsaaEN0KCMl8rVI93aerK7mT/edit
+- Slide outline doc: https://docs.google.com/document/d/1Eq6Ks1huL1R2sfjopv_zL1uD6fIw-bdV/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

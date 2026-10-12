@@ -4,6 +4,8 @@ Unit 4: Finance & Operations
 
 **Guiding question:** Do you actually make money on each sale — and what happens when you multiply that out?
 
+_When it last ran: Week of March 2, 2026 · 7:30–9:00 AM · Unit 4: Finance begins · Unit 4: Finance begins. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Calculate the unit economics of one sale (revenue, cost, contribution margin).
 - Explain the difference between revenue and profit.
@@ -17,23 +19,43 @@ Unit 4: Finance & Operations
 - **Thursday:** Speaker Recap + Thank You Cards + Numbers Work Day
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** You sell something for $20 — how much is actually yours to keep?
-- **Busy Can Still Mean Broke:** You can sell a lot and still lose money on every sale.
-- **Revenue vs. Profit:** Revenue = money in · Profit = what's left after costs · "Revenue is vanity, profit is sanity."
-- **Unit Economics: Zoom In to One Sale:** If one sale isn't profitable, doing more just loses money faster.
-- **The Core Math:** Price − Variable cost = Contribution margin
-- **Example: The Candle:** Sells for $20 · Wax, wick, jar, label = $7 · Margin = $13 per candle.
-- **Fixed vs. Variable Costs:** Variable = changes per sale (materials) · Fixed = same no matter what (table fee, subscription).
-- **Margins Cover Fixed Costs:** Many sales × contribution margin → covers rent, time, profit.
-- **Revenue Projections:** An educated guess: units × price, month by month · Turns a goal into a plan.
-- **Activity: Your Unit Economics:** Price · Variable cost per unit · Contribution margin — be honest about every cost.
-- **Close:** Know your margin on one sale · Tomorrow: turn it into a 12-month projection.
+## Monday slide outline
+1. **Warm-Up:** You sell something for $20 — how much is actually yours to keep?
+   _Picture: A $20 bill with a scissors icon hovering over it._
+2. **Busy Can Still Mean Broke:** You can sell a lot and still lose money on every sale.
+   _Picture: A busy shop counter with an empty cash drawer._
+3. **Revenue vs. Profit:** Revenue = money in · Profit = what's left after costs · "Revenue is vanity, profit is sanity."
+   _Picture: Two jars — a big "Revenue" jar, a smaller "Profit" jar._
+4. **Unit Economics: Zoom In to One Sale:** If one sale isn't profitable, doing more just loses money faster.
+   _Picture: A magnifying glass over a single product._
+5. **The Core Math:** Price − Variable cost = Contribution margin
+   _Picture: Simple equation on a clean background._
+6. **Example: The Candle:** Sells for $20 · Wax, wick, jar, label = $7 · Margin = $13 per candle.
+   _Picture: A labeled candle beside its cost breakdown._
+7. **Fixed vs. Variable Costs:** Variable = changes per sale (materials) · Fixed = same no matter what (table fee, subscription).
+   _Picture: Two bins sorting cost cards into Fixed and Variable._
+8. **Margins Cover Fixed Costs:** Many sales × contribution margin → covers rent, time, profit.
+   _Picture: Stacks of coins filling a "fixed costs" bucket._
+9. **Revenue Projections:** An educated guess: units × price, month by month · Turns a goal into a plan.
+   _Picture: A rising line chart across 12 months._
+10. **Activity: Your Unit Economics:** Price · Variable cost per unit · Contribution margin — be honest about every cost.
+   _Picture: Student working out costs on a worksheet._
+11. **Close:** Know your margin on one sale · Tomorrow: turn it into a 12-month projection.
+   _Picture: One candle multiplying into a full calendar year._
 
-## Videos used this week
-- [Revenue vs Profit](https://www.youtube.com/watch?v=ksnKQpdMgL0) (History Illustrated, ~3-4m)
-- [Unit Economics - Small Business Lesson](https://www.youtube.com/watch?v=ZrCfSfNmVws) (ContentByEd, ~8-10m)
-- [Fixed and Variable Costs](https://www.youtube.com/watch?v=mLCD6FPUDEo) (Miacademy & MiaPrep, ~4-5m)
+## Videos for this week
+- [Revenue vs Profit](https://www.youtube.com/watch?v=ksnKQpdMgL0) (History Illustrated, ~3-4m, slide 3)
+- [Unit Economics - Small Business Lesson](https://www.youtube.com/watch?v=ZrCfSfNmVws) (ContentByEd, ~8-10m, slide 4)
+- [Fixed and Variable Costs](https://www.youtube.com/watch?v=mLCD6FPUDEo) (Miacademy & MiaPrep, ~4-5m, slide 7)
+
+## Podcast
+Listen — Unit Economics + Revenue Projections: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1mwo4NmSmicmEeS6YAF5xgXbFl0N0nC5e/edit
+- Lesson plan doc: https://docs.google.com/document/d/1YT9zjZmd_LXcfzirm2N02-ivu7FKdc7e/edit
+- Slide outline doc: https://docs.google.com/document/d/1a69VBmBD_rk7T2pQLgv5pWucZ0LoN0c1/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

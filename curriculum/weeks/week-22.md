@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** Once someone shows interest, how do you keep track of them and follow up in a way that actually earns the sale?
 
+_When it last ran: Week of February 2, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Build a simple CRM (customer tracker) for their business.
 - Understand the stages of a customer relationship from lead to repeat buyer.
@@ -17,21 +19,39 @@ Unit 3: Marketing & Brand
 - **Thursday:** Speaker Recap + Thank You Cards + Outreach Work Day
 - **Friday:** Founder Fight + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Good follow-up vs. annoying follow-up — what's the difference?
-- **The Money Is in the Follow-Up:** Most sales are lost because nobody followed up.
-- **What Is a CRM?:** Customer Relationship Management · A spreadsheet, not fancy software.
-- **What a CRM Tracks:** Name + contact · How you met · Stage · Last contact · Next Action + date
-- **The Relationship Stages:** Lead → Prospect → Customer → Repeat/Referrer
-- **The Follow-Up Game:** Give value every time · Give 3 times before you ask · Make the next step easy.
-- **Bad vs. Good Follow-Up:** Bad: "Just checking in! Any thoughts??" · Good: "Saw this & thought of you — here's the link when you're ready."
-- **Activity: Build Your CRM:** Set up your tracker · Enter every real lead & customer · Add a Next Action for each.
-- **Close:** Nobody falls through the cracks · Tomorrow: build your follow-up sequence.
+## Monday slide outline
+1. **Warm-Up:** Good follow-up vs. annoying follow-up — what's the difference?
+   _Picture: Split screen — a friendly text bubble beside a pushy one._
+2. **The Money Is in the Follow-Up:** Most sales are lost because nobody followed up.
+   _Picture: A funnel with leads slipping through a crack at the bottom._
+3. **What Is a CRM?:** Customer Relationship Management · A spreadsheet, not fancy software.
+   _Picture: Simple, clean customer tracker spreadsheet on a laptop._
+4. **What a CRM Tracks:** Name + contact · How you met · Stage · Last contact · Next Action + date
+   _Picture: Spreadsheet columns with the "Next Action" column highlighted._
+5. **The Relationship Stages:** Lead → Prospect → Customer → Repeat/Referrer
+   _Picture: Four-step pipeline arrow, left to right._
+6. **The Follow-Up Game:** Give value every time · Give 3 times before you ask · Make the next step easy.
+   _Picture: A gift box beside a chat thread._
+7. **Bad vs. Good Follow-Up:** Bad: "Just checking in! Any thoughts??" · Good: "Saw this & thought of you — here's the link when you're ready."
+   _Picture: Two phone screens side by side, one red, one green._
+8. **Activity: Build Your CRM:** Set up your tracker · Enter every real lead & customer · Add a Next Action for each.
+   _Picture: Student typing names into a fresh spreadsheet._
+9. **Close:** Nobody falls through the cracks · Tomorrow: build your follow-up sequence.
+   _Picture: A safety net catching falling dots._
 
-## Videos used this week
-- [The Fortune is in the Follow Up](https://www.youtube.com/watch?v=98_p2BRuZ8c) (Elevarus, ?)
-- [What is a CRM? Explained in 3 Minutes](https://www.youtube.com/watch?v=okpJ5v5RYhs)
-- [How to Follow Up with Leads (Without Being Pushy)](https://www.youtube.com/watch?v=h3vIj6cGGgY)
+## Videos for this week
+- [The Fortune is in the Follow Up](https://www.youtube.com/watch?v=98_p2BRuZ8c) (Elevarus, ?, slide 2)
+- [What is a CRM? Explained in 3 Minutes](https://www.youtube.com/watch?v=okpJ5v5RYhs) (~3m, slide 3)
+- [How to Follow Up with Leads (Without Being Pushy)](https://www.youtube.com/watch?v=h3vIj6cGGgY) (?, slide 6)
+
+## Podcast
+Listen — CRM + Outreach Strategies: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1Pc8KUPRyPO9DSMFDkgGQUgdpFK5zPyDB/edit
+- Lesson plan doc: https://docs.google.com/document/d/1jmJ4Zkw7yJQPgghxOik77SdL9NIcyjKa/edit
+- Slide outline doc: https://docs.google.com/document/d/1os5wf_YfjA4osDoDM0lgKHI_r0rnonC7/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._

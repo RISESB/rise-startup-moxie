@@ -4,6 +4,8 @@ Unit 3: Marketing & Brand
 
 **Guiding question:** How do you use AI to create a full marketing campaign fast — and how do you test which version actually works?
 
+_When it last ran: Week of February 9, 2026 · 7:30–9:00 AM · Mon–Fri. Dates are from a previous year; this year's calendar may differ._
+
 ## By the end of the week, students can
 - Use AI to generate a multi-piece marketing campaign.
 - Explain what A/B testing is and why it beats guessing.
@@ -17,23 +19,46 @@ Unit 3: Marketing & Brand
 - **Thursday:** Speaker Recap + Thank You Cards + Campaign Work Day
 - **Friday:** Deal or No Deal + 1-on-1s + Week Reflection
 
-## Key ideas (from the slides)
-- **Warm-Up:** Double your reach this week with $0 — what would you try?
-- **Hoping vs. Knowing:** One asset → a whole campaign · Don't guess — test.
-- **What Is a Campaign?:** Coordinated pieces · One goal · Set time period — a planned push, not one random post.
-- **The Parts of a Campaign:** One goal · One segment · One offer · 3–5 pieces → same next step.
-- **Using AI to Build It:** Give AI the strategy — segment, voice, offer · It drafts, you direct & edit.
-- **A Campaign Prompt:** "I run [business] for [segment]. Voice: [3 words]. Draft 3 captions, 1 video script, 1 email — all pointing to [offer]."
-- **What Is A/B Testing?:** Two versions · Data picks the winner · Keep whichever performs better.
-- **What You Can Test:** Headline/hook · Image/thumbnail · Call to action · Price or offer framing.
-- **The One-Thing Rule:** Change ONE thing at a time · Post A Monday, B Wednesday, same time · Compare.
-- **Activity: Plan & Set Up Your Test:** Plan a 1-week campaign · Pick ONE element to test · Write both versions.
-- **Close:** Test to know, not hope · Tomorrow: build it with AI & set up your test.
+## This week's AI tool
+AI Campaign Generator + A/B Lab: Leave with a campaign you could run this week, two A/B versions to test one thing, and a plain-English way to read what the numbers tell you. Open curriculum/tools/week23-ai-campaign-ab-lab.md to run it.
 
-## Videos used this week
-- [What is a Marketing Campaign?](https://www.youtube.com/watch?v=9IX6hWqo2zo) (ProfileTree Digital, 7:12)
-- [Create a Marketing Campaign with AI (Beginner)](https://www.youtube.com/watch?v=3o3j1HiUb-k) (HubSpot Marketing, 9:44)
-- [What is A/B Testing?](https://www.youtube.com/watch?v=zFMgpxG-chM) (Data Science Dojo, 3:42)
+## Monday slide outline
+1. **Warm-Up:** Double your reach this week with $0 — what would you try?
+   _Picture: A megaphone with a "$0" price tag._
+2. **Hoping vs. Knowing:** One asset → a whole campaign · Don't guess — test.
+   _Picture: A crystal ball beside a bar chart._
+3. **What Is a Campaign?:** Coordinated pieces · One goal · Set time period — a planned push, not one random post.
+   _Picture: Several posts and emails all pointing to one target._
+4. **The Parts of a Campaign:** One goal · One segment · One offer · 3–5 pieces → same next step.
+   _Picture: Simple diagram: goal at top, five content tiles below._
+5. **Using AI to Build It:** Give AI the strategy — segment, voice, offer · It drafts, you direct & edit.
+   _Picture: Person at laptop with an AI chat window drafting captions._
+6. **A Campaign Prompt:** "I run [business] for [segment]. Voice: [3 words]. Draft 3 captions, 1 video script, 1 email — all pointing to [offer]."
+   _Picture: A prompt box with fill-in-the-blank brackets._
+7. **What Is A/B Testing?:** Two versions · Data picks the winner · Keep whichever performs better.
+   _Picture: Two labeled cards, A and B, with a trophy over one._
+8. **What You Can Test:** Headline/hook · Image/thumbnail · Call to action · Price or offer framing.
+   _Picture: Grid of four testable elements with toggle icons._
+9. **The One-Thing Rule:** Change ONE thing at a time · Post A Monday, B Wednesday, same time · Compare.
+   _Picture: Two nearly identical posts with a single difference circled._
+10. **Activity: Plan & Set Up Your Test:** Plan a 1-week campaign · Pick ONE element to test · Write both versions.
+   _Picture: Student sketching a campaign plan on paper._
+11. **Close:** Test to know, not hope · Tomorrow: build it with AI & set up your test.
+   _Picture: A checkered "start" flag over a laptop._
+
+## Videos for this week
+- [What is a Marketing Campaign?](https://www.youtube.com/watch?v=9IX6hWqo2zo) (ProfileTree Digital, 7:12, slide 3)
+- [Create a Marketing Campaign with AI (Beginner)](https://www.youtube.com/watch?v=3o3j1HiUb-k) (HubSpot Marketing, 9:44, slide 5)
+- [What is A/B Testing?](https://www.youtube.com/watch?v=zFMgpxG-chM) (Data Science Dojo, 3:42, slide 7)
+
+## Podcast
+Listen — AI Campaigns + A/B Testing: Audio version of this week's subject deep-dive.
+
+## Source documents
+_Google Drive files. A student may need a facilitator to share them._
+- Slide deck: https://docs.google.com/presentation/d/1fwl9hNH08gESDuOo09YEtzsvicF37hes/edit
+- Lesson plan doc: https://docs.google.com/document/d/1UYGkw7CM9f2XzRT_nu0TPlf1Gpj935Po/edit
+- Slide outline doc: https://docs.google.com/document/d/118Itulhsu-VfNoaXAzGvl1H2hpbUBsqv/edit
 
 ## Lesson walkthrough
 _Written as the facilitator's script for the classroom. Use it to know what was taught and how; don't read it back to students._
