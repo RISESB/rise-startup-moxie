@@ -33,6 +33,11 @@ The `requests` branch holds request briefs students have filed for bigger jobs, 
 | `unit-economics` | One-sale math + break-even | 26, 27 |
 | `business-snapshot` | One-page Business Snapshot | 18, 33, 34 |
 | `build-a-skill` | A student's own skill, ready to send for approval | 5, 12 |
+| `opportunity-drill` | A hunch framed as a hypothesis, who hurts, the value chain, a stress test, a score and one test | 1, 3, 4, 9, 16 |
+| `content-post` | A social post in the student's own voice, built from an interview | 20, 21, 23, 24 |
+| `product-listing` | Headlines, description, short version and selling points for a listing or sign | 15, 20, 21, 25 |
+| `weekly-loop` | A weekly review: tried, happened, learned, next test | 1, 16, 18, 31, 33 |
+| `smart-goal` | A weekly goal checked against RISE's 4-part rubric | 2, 18 |
 
 ## Add or change a skill
 

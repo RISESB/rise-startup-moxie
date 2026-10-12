@@ -454,6 +454,20 @@
    ]
   },
   {
+   "name": "content-post",
+   "description": "Turn something real from the student's business into a social post or short story in their own voice, by interviewing them first. Use when a student needs content for marketing, brand storytelling, or says 'write me a post'.",
+   "weeks": [
+    20,
+    21,
+    23,
+    24
+   ],
+   "path": "skills/content-post/SKILL.md",
+   "files": [
+    "skills/content-post/SKILL.md"
+   ]
+  },
+  {
    "name": "discovery-tracker",
    "description": "Turn what a student noticed out in the world into Discovery Tracker entries and run the 5 Whys on the strongest one. Use when a student has observations, complaints they overheard, or 'I don't have an idea yet'.",
    "weeks": [
@@ -505,6 +519,21 @@
    ]
   },
   {
+   "name": "opportunity-drill",
+   "description": "Run a business hunch through the Opportunity Drill: frame it as a hypothesis that could be proven wrong, map who hurts and the value chain, stress test it, score it, and leave with one test for this week. Use when a student has a new idea, is choosing between ideas, or says 'is this a good idea?'",
+   "weeks": [
+    1,
+    3,
+    4,
+    9,
+    16
+   ],
+   "path": "skills/opportunity-drill/SKILL.md",
+   "files": [
+    "skills/opportunity-drill/SKILL.md"
+   ]
+  },
+  {
    "name": "outreach-message",
    "description": "Write a real outreach message, or a 3-message follow-up sequence that adds value instead of nagging. Use when a student needs to reach a customer, mentor, door opener or business owner.",
    "weeks": [
@@ -530,6 +559,32 @@
    ]
   },
   {
+   "name": "product-listing",
+   "description": "Write the words for a product or service listing: headline options, a full description, a short social version and the key selling points, built only from facts the student gives. Use for an order page, a marketplace listing, a menu, a flyer or a booth sign.",
+   "weeks": [
+    15,
+    20,
+    21,
+    25
+   ],
+   "path": "skills/product-listing/SKILL.md",
+   "files": [
+    "skills/product-listing/SKILL.md"
+   ]
+  },
+  {
+   "name": "smart-goal",
+   "description": "Write or tighten a weekly SMART goal and check it against the rubric RISE grades with: specific, measurable, tied to the business, with an action plan. Use before a student submits a goal, or when a goal is vague.",
+   "weeks": [
+    2,
+    18
+   ],
+   "path": "skills/smart-goal/SKILL.md",
+   "files": [
+    "skills/smart-goal/SKILL.md"
+   ]
+  },
+  {
    "name": "unit-economics",
    "description": "Work out the money on one sale (revenue, cost, contribution margin), then the break-even point in units and dollars. Use when a student asks 'will this make money?' or is building projections.",
    "weeks": [
@@ -550,6 +605,21 @@
    "path": "skills/value-prop-and-pricing/SKILL.md",
    "files": [
     "skills/value-prop-and-pricing/SKILL.md"
+   ]
+  },
+  {
+   "name": "weekly-loop",
+   "description": "Run a weekly business review as a loop: what I tried, what happened, what it tells me, what I test next. Use on Fridays, in 1-on-1 prep, when a student feels stuck, or to get ready for a week reflection.",
+   "weeks": [
+    1,
+    16,
+    18,
+    31,
+    33
+   ],
+   "path": "skills/weekly-loop/SKILL.md",
+   "files": [
+    "skills/weekly-loop/SKILL.md"
    ]
   }
  ]
