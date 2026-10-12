@@ -14,6 +14,9 @@ RISE Coach reads `index.json` for a table of contents, then opens individual fil
 | `curriculum/overview.md`, `how-we-teach.md` | The five units, and the teaching approach | No. Generated |
 | `skills/<name>/SKILL.md` | Skills the coach follows to produce an output | **Yes** |
 | `index.json` | Table of contents the coach reads | No. Generated |
+| `COACH.md` | The coach's standing instructions: who it works with, where things are, how to work, how to take requests | **Yes** |
+
+The `requests` branch holds request briefs students have filed for bigger jobs, and their status. See the README on that branch.
 
 ## Skills
 
